@@ -1,0 +1,1 @@
+{"engine": "easyocr", "max_dim": 960, "lang": "eng", "psm": 11, "image_hw": {"h": 810, "w": 1440}, "words": [{"bbox_xywh": [687, 84, 123, 12], "text": "fplc hanna baj sandz", "conf": 0.044326430365028174}], "meta": {"available": true, "engine": "easyocr", "langs": ["en"], "gpu": false, "reader_cached": false, "words": 1}}

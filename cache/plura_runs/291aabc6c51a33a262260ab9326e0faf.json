@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "cached": false,
+  "cache_key": "291aabc6c51a33a262260ab9326e0faf",
+  "image": {
+    "width": 100,
+    "height": 100
+  },
+  "bxo_score": 65.0,
+  "plura_index_score": 65.0,
+  "metrics": {
+    "persona_count": 3,
+    "mean_confusion": 0.0,
+    "mean_trust": 0.0,
+    "focus_score": 1.0,
+    "clarity_score": 1.0,
+    "ignore_threshold": 0.15,
+    "over_attention_threshold": 0.65
+  },
+  "attention_zones": {
+    "ignored": {
+      "ratio": 1.0,
+      "pixels": 10000
+    },
+    "clarity": {
+      "ratio": 0.0,
+      "pixels": 0
+    },
+    "over_attention": {
+      "ratio": 0.0,
+      "pixels": 0
+    }
+  },
+  "top_elements": [],
+  "persona_runs": [
+    {
+      "persona": {
+        "id": "p_first_time",
+        "name": "First-time Visitor",
+        "archetype": "scanner"
+      },
+      "first_noticed": [],
+      "confusion": 0.0,
+      "trust": 0.0,
+      "trust_signals": [
+        "No detectable UI structure"
+      ]
+    },
+    {
+      "persona": {
+        "id": "p_goal_oriented",
+        "name": "Goal-Oriented",
+        "archetype": "cta_seeker"
+      },
+      "first_noticed": [],
+      "confusion": 0.0,
+      "trust": 0.0,
+      "trust_signals": [
+        "No detectable UI structure"
+      ]
+    },
+    {
+      "persona": {
+        "id": "p_skeptical",
+        "name": "Skeptical Buyer",
+        "archetype": "trust_seeker"
+      },
+      "first_noticed": [],
+      "confusion": 0.0,
+      "trust": 0.0,
+      "trust_signals": [
+        "No detectable UI structure"
+      ]
+    }
+  ],
+  "evaluation": "Behavioral clarity is high with low confusion across personas (trust: low). Large areas are ignored; consider reducing dead space or improving hierarchy and contrast.",
+  "elements": []
+}

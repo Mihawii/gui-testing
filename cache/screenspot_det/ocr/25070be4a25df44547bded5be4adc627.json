@@ -1,0 +1,1 @@
+{"engine": "easyocr", "max_dim": 960, "lang": "eng", "psm": 11, "image_hw": {"h": 810, "w": 1440}, "words": [{"bbox_xywh": [666, 363, 36, 12], "text": "henath", "conf": 0.11797280259298348}], "meta": {"available": true, "engine": "easyocr", "langs": ["en"], "gpu": false, "reader_cached": true, "words": 1}}

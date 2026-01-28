@@ -1,0 +1,1 @@
+{"candidates": [], "meta": {"enabled": true, "available": true, "provider": "owlvit", "model": "google/owlvit-base-patch32", "cached": false, "max_dim": 960, "max_candidates": 12, "score_threshold": 0.01, "max_queries": 8, "queries": ["close button", "close icon", "x button", "x icon"], "device": "mps", "model_cached": false, "latency_seconds": 1.867678165435791}}

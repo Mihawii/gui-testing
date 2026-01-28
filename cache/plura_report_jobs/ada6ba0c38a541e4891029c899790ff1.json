@@ -1,0 +1,20 @@
+{
+  "job_id": "ada6ba0c38a541e4891029c899790ff1",
+  "cache_key": "0c898451c4d0ec8590ee6011f7018147",
+  "email": "aerthea.branch@gmail.com",
+  "notes": "E2E test run",
+  "status": "succeeded",
+  "progress": 100,
+  "created_at": 1767475391.815497,
+  "updated_at": 1767475426.45924,
+  "report_path": "/Users/mihawii/Downloads/Backend/Backend/cache/plura_report_jobs/ada6ba0c38a541e4891029c899790ff1.report.md",
+  "research_queries": [
+    "E2E test run landing page UX best practices attention hierarchy",
+    "E2E test run site:reddit.com landing page UX feedback conversion",
+    "visual saliency heatmap limitations task relevance eye tracking"
+  ],
+  "pdf_path": "/Users/mihawii/Downloads/Backend/Backend/cache/plura_report_jobs/ada6ba0c38a541e4891029c899790ff1.report.pdf",
+  "resend": {
+    "id": "39f9df5d-6a27-42d0-bc9f-9c9b1d4c8199"
+  }
+}

@@ -1,0 +1,1004 @@
+{
+  "success": true,
+  "cached": false,
+  "cache_key": "1a8b65ebca657f79068aa56cb75601d0",
+  "version": "plura_mvp_v6",
+  "intent": null,
+  "intent_kind": null,
+  "image": {
+    "width": 1440,
+    "height": 900
+  },
+  "image_original": {
+    "width": 3360,
+    "height": 2100
+  },
+  "image_normalized": {
+    "width": 1440,
+    "height": 900
+  },
+  "normalization": {
+    "canonical_width": 1440,
+    "aspect_preserved": true,
+    "luminance_normalized": true,
+    "exif_removed": true
+  },
+  "bxo_score": 26.118675743786333,
+  "plura_index_score": 26.118675743786333,
+  "metrics": {
+    "focus": 0.015993656688021905,
+    "clarity": 0.46179929441500633,
+    "alignment": null,
+    "focal_points": 40,
+    "fragmentation": 1.0,
+    "dominance": 0.030914283017389018,
+    "decay": 0.503586083650589,
+    "intent_overlap": null,
+    "overall": 26.118675743786333
+  },
+  "attention_zones": {
+    "ignored": {
+      "ratio": 0.10676466049382716,
+      "pixels": 138367
+    },
+    "clarity": {
+      "ratio": 0.5508503086419753,
+      "pixels": 713902
+    },
+    "over_attention": {
+      "ratio": 0.3423850308641975,
+      "pixels": 443731
+    }
+  },
+  "attention_frames": {
+    "immediate": {
+      "heatmap_url": "/api/plura/heatmap/1a8b65ebca657f79068aa56cb75601d0/?frame=immediate",
+      "attention_zones": {
+        "ignored": {
+          "ratio": 0.11469675925925926,
+          "pixels": 148647
+        },
+        "clarity": {
+          "ratio": 0.603991512345679,
+          "pixels": 782773
+        },
+        "over_attention": {
+          "ratio": 0.28131172839506174,
+          "pixels": 364580
+        }
+      },
+      "attention_points": [
+        {
+          "id": "p10",
+          "x_px": 703,
+          "y_px": 432,
+          "x_norm": 0.48819444444444443,
+          "y_norm": 0.48,
+          "mass_share": 0.12808031318983118,
+          "peak_value": 1.0,
+          "bbox": [
+            498,
+            215,
+            317,
+            311
+          ]
+        },
+        {
+          "id": "p20",
+          "x_px": 816,
+          "y_px": 463,
+          "x_norm": 0.5666666666666667,
+          "y_norm": 0.5144444444444445,
+          "mass_share": 0.15726054761583982,
+          "peak_value": 0.9725014567375183,
+          "bbox": [
+            715,
+            322,
+            309,
+            404
+          ]
+        },
+        {
+          "id": "p25",
+          "x_px": 696,
+          "y_px": 448,
+          "x_norm": 0.48333333333333334,
+          "y_norm": 0.49777777777777776,
+          "mass_share": 0.06799891311106736,
+          "peak_value": 0.9485098719596863,
+          "bbox": [
+            518,
+            448,
+            181,
+            296
+          ]
+        },
+        {
+          "id": "p15",
+          "x_px": 924,
+          "y_px": 270,
+          "x_norm": 0.6416666666666667,
+          "y_norm": 0.3,
+          "mass_share": 0.006087680781109119,
+          "peak_value": 0.9351049661636353,
+          "bbox": [
+            890,
+            249,
+            81,
+            60
+          ]
+        },
+        {
+          "id": "p7",
+          "x_px": 725,
+          "y_px": 233,
+          "x_norm": 0.5034722222222222,
+          "y_norm": 0.2588888888888889,
+          "mass_share": 0.0024462798020022593,
+          "peak_value": 0.9273959398269653,
+          "bbox": [
+            711,
+            205,
+            30,
+            60
+          ]
+        }
+      ]
+    },
+    "orienting": {
+      "heatmap_url": "/api/plura/heatmap/1a8b65ebca657f79068aa56cb75601d0/",
+      "attention_zones": {
+        "ignored": {
+          "ratio": 0.10676466049382716,
+          "pixels": 138367
+        },
+        "clarity": {
+          "ratio": 0.5508503086419753,
+          "pixels": 713902
+        },
+        "over_attention": {
+          "ratio": 0.3423850308641975,
+          "pixels": 443731
+        }
+      },
+      "attention_points": [
+        {
+          "id": "p21",
+          "x_px": 928,
+          "y_px": 268,
+          "x_norm": 0.6444444444444445,
+          "y_norm": 0.29777777777777775,
+          "mass_share": 0.005852400472265492,
+          "peak_value": 1.0,
+          "bbox": [
+            894,
+            244,
+            77,
+            61
+          ]
+        },
+        {
+          "id": "p28",
+          "x_px": 688,
+          "y_px": 407,
+          "x_norm": 0.4777777777777778,
+          "y_norm": 0.45222222222222225,
+          "mass_share": 0.022369365437629508,
+          "peak_value": 0.992540717124939,
+          "bbox": [
+            611,
+            327,
+            119,
+            150
+          ]
+        },
+        {
+          "id": "p22",
+          "x_px": 568,
+          "y_px": 324,
+          "x_norm": 0.39444444444444443,
+          "y_norm": 0.36,
+          "mass_share": 0.021545016794470677,
+          "peak_value": 0.9616336226463318,
+          "bbox": [
+            497,
+            268,
+            106,
+            163
+          ]
+        },
+        {
+          "id": "p13",
+          "x_px": 858,
+          "y_px": 186,
+          "x_norm": 0.5958333333333333,
+          "y_norm": 0.20666666666666667,
+          "mass_share": 0.0050961157659550425,
+          "peak_value": 0.9534152150154114,
+          "bbox": [
+            841,
+            154,
+            58,
+            72
+          ]
+        },
+        {
+          "id": "p27",
+          "x_px": 816,
+          "y_px": 463,
+          "x_norm": 0.5666666666666667,
+          "y_norm": 0.5144444444444445,
+          "mass_share": 0.04648218875787015,
+          "peak_value": 0.9476840496063232,
+          "bbox": [
+            746,
+            325,
+            202,
+            189
+          ]
+        }
+      ]
+    },
+    "scanning": {
+      "heatmap_url": "/api/plura/heatmap/1a8b65ebca657f79068aa56cb75601d0/?frame=scanning",
+      "attention_zones": {
+        "ignored": {
+          "ratio": 0.0812662037037037,
+          "pixels": 105321
+        },
+        "clarity": {
+          "ratio": 0.869945987654321,
+          "pixels": 1127450
+        },
+        "over_attention": {
+          "ratio": 0.04878780864197531,
+          "pixels": 63229
+        }
+      },
+      "attention_points": [
+        {
+          "id": "p1",
+          "x_px": 1351,
+          "y_px": 146,
+          "x_norm": 0.9381944444444444,
+          "y_norm": 0.1622222222222222,
+          "mass_share": 0.13826511907545516,
+          "peak_value": 1.0,
+          "bbox": [
+            870,
+            0,
+            554,
+            192
+          ]
+        },
+        {
+          "id": "p2",
+          "x_px": 1351,
+          "y_px": 146,
+          "x_norm": 0.9381944444444444,
+          "y_norm": 0.1622222222222222,
+          "mass_share": 0.04416304712658248,
+          "peak_value": 1.0,
+          "bbox": [
+            1243,
+            52,
+            197,
+            197
+          ]
+        },
+        {
+          "id": "p5",
+          "x_px": 1380,
+          "y_px": 381,
+          "x_norm": 0.9583333333333334,
+          "y_norm": 0.42333333333333334,
+          "mass_share": 0.07621751238070346,
+          "peak_value": 0.9167268872261047,
+          "bbox": [
+            1205,
+            335,
+            235,
+            323
+          ]
+        },
+        {
+          "id": "p7",
+          "x_px": 1413,
+          "y_px": 663,
+          "x_norm": 0.98125,
+          "y_norm": 0.7366666666666667,
+          "mass_share": 0.008432766842014588,
+          "peak_value": 0.8730745315551758,
+          "bbox": [
+            1350,
+            634,
+            90,
+            65
+          ]
+        },
+        {
+          "id": "p10",
+          "x_px": 1232,
+          "y_px": 873,
+          "x_norm": 0.8555555555555555,
+          "y_norm": 0.97,
+          "mass_share": 0.019011286574937534,
+          "peak_value": 0.846310555934906,
+          "bbox": [
+            1157,
+            834,
+            226,
+            66
+          ]
+        }
+      ]
+    }
+  },
+  "heatmap_legend": {
+    "alpha": 0.55,
+    "ignore_threshold": 0.15,
+    "over_attention_threshold": 0.65,
+    "zones": [
+      {
+        "key": "ignored",
+        "label": "Low attention",
+        "color_hex": "#808080",
+        "color_rgb": [
+          128,
+          128,
+          128
+        ],
+        "range": {
+          "lt": 0.15
+        }
+      },
+      {
+        "key": "clarity",
+        "label": "Mid attention",
+        "color_hex": "#00FF00",
+        "color_rgb": [
+          0,
+          255,
+          0
+        ],
+        "range": {
+          "gte": 0.15,
+          "lt": 0.65
+        }
+      },
+      {
+        "key": "over_attention",
+        "label": "High attention",
+        "color_hex": "#FF0000",
+        "color_rgb": [
+          255,
+          0,
+          0
+        ],
+        "range": {
+          "gte": 0.65
+        }
+      }
+    ]
+  },
+  "attention_points": [
+    {
+      "id": "p21",
+      "x_px": 928,
+      "y_px": 268,
+      "x_norm": 0.6444444444444445,
+      "y_norm": 0.29777777777777775,
+      "mass_share": 0.005852400472265492,
+      "peak_value": 1.0,
+      "bbox": [
+        894,
+        244,
+        77,
+        61
+      ]
+    },
+    {
+      "id": "p28",
+      "x_px": 688,
+      "y_px": 407,
+      "x_norm": 0.4777777777777778,
+      "y_norm": 0.45222222222222225,
+      "mass_share": 0.022369365437629508,
+      "peak_value": 0.992540717124939,
+      "bbox": [
+        611,
+        327,
+        119,
+        150
+      ]
+    },
+    {
+      "id": "p22",
+      "x_px": 568,
+      "y_px": 324,
+      "x_norm": 0.39444444444444443,
+      "y_norm": 0.36,
+      "mass_share": 0.021545016794470677,
+      "peak_value": 0.9616336226463318,
+      "bbox": [
+        497,
+        268,
+        106,
+        163
+      ]
+    },
+    {
+      "id": "p13",
+      "x_px": 858,
+      "y_px": 186,
+      "x_norm": 0.5958333333333333,
+      "y_norm": 0.20666666666666667,
+      "mass_share": 0.0050961157659550425,
+      "peak_value": 0.9534152150154114,
+      "bbox": [
+        841,
+        154,
+        58,
+        72
+      ]
+    },
+    {
+      "id": "p27",
+      "x_px": 816,
+      "y_px": 463,
+      "x_norm": 0.5666666666666667,
+      "y_norm": 0.5144444444444445,
+      "mass_share": 0.04648218875787015,
+      "peak_value": 0.9476840496063232,
+      "bbox": [
+        746,
+        325,
+        202,
+        189
+      ]
+    }
+  ],
+  "top_elements": [
+    {
+      "id": "el_11",
+      "bbox": [
+        406,
+        857,
+        63,
+        31
+      ],
+      "type": "ui_element",
+      "weight": 0.08534336961211095,
+      "cta_score": 0.4984091809040224,
+      "saliency_score": 0.4559551179409027
+    },
+    {
+      "id": "el_2",
+      "bbox": [
+        1339,
+        217,
+        87,
+        101
+      ],
+      "type": "ui_element",
+      "weight": 0.08381970794449446,
+      "cta_score": 0.5392425918353021,
+      "saliency_score": 0.35377368330955505
+    },
+    {
+      "id": "el_4",
+      "bbox": [
+        1328,
+        320,
+        101,
+        72
+      ],
+      "type": "ui_element",
+      "weight": 0.07170309555838571,
+      "cta_score": 0.46018154848503023,
+      "saliency_score": 0.3495970070362091
+    },
+    {
+      "id": "el_0",
+      "bbox": [
+        1300,
+        360,
+        140,
+        349
+      ],
+      "type": "ui_element",
+      "weight": 0.07090989319162826,
+      "cta_score": 0.39248127782624354,
+      "saliency_score": 0.2724376618862152
+    },
+    {
+      "id": "el_1",
+      "bbox": [
+        1260,
+        437,
+        48,
+        225
+      ],
+      "type": "ui_element",
+      "weight": 0.06974565402992348,
+      "cta_score": 0.4300464130407887,
+      "saliency_score": 0.34788835048675537
+    },
+    {
+      "id": "el_6",
+      "bbox": [
+        1308,
+        113,
+        103,
+        64
+      ],
+      "type": "ui_element",
+      "weight": 0.06967561842241828,
+      "cta_score": 0.5140606322245745,
+      "saliency_score": 0.20986784994602203
+    }
+  ],
+  "persona_runs": [],
+  "evaluation": "Attention is diffuse with multiple competing areas. Visual hierarchy is serviceable but may compete with secondary elements.",
+  "elements": [
+    {
+      "id": "el_0",
+      "bbox": [
+        1300,
+        360,
+        140,
+        349
+      ],
+      "area_ratio": 0.03770061728395062,
+      "contrast": 0.1682945340871811,
+      "hierarchy_level": 0,
+      "saliency_score": 0.2724376618862152,
+      "cta_score": 0.39248127782624354,
+      "type": "ui_element",
+      "importance_score": 0.4343368098139763
+    },
+    {
+      "id": "el_1",
+      "bbox": [
+        1260,
+        437,
+        48,
+        225
+      ],
+      "area_ratio": 0.008333333333333333,
+      "contrast": 0.14755931496620178,
+      "hierarchy_level": 0,
+      "saliency_score": 0.34788835048675537,
+      "cta_score": 0.4300464130407887,
+      "type": "ui_element",
+      "importance_score": 0.46102381774357387
+    },
+    {
+      "id": "el_2",
+      "bbox": [
+        1339,
+        217,
+        87,
+        101
+      ],
+      "area_ratio": 0.006780092592592593,
+      "contrast": 0.3114680349826813,
+      "hierarchy_level": 0,
+      "saliency_score": 0.35377368330955505,
+      "cta_score": 0.5392425918353021,
+      "type": "ui_element",
+      "importance_score": 0.581338407950742
+    },
+    {
+      "id": "el_3",
+      "bbox": [
+        1274,
+        311,
+        59,
+        126
+      ],
+      "area_ratio": 0.005736111111111111,
+      "contrast": 0.14630337059497833,
+      "hierarchy_level": 0,
+      "saliency_score": 0.31731879711151123,
+      "cta_score": 0.42256618337027524,
+      "type": "ui_element",
+      "importance_score": 0.44331346026488716
+    },
+    {
+      "id": "el_4",
+      "bbox": [
+        1328,
+        320,
+        101,
+        72
+      ],
+      "area_ratio": 0.005611111111111111,
+      "contrast": 0.17336858808994293,
+      "hierarchy_level": 0,
+      "saliency_score": 0.3495970070362091,
+      "cta_score": 0.46018154848503023,
+      "type": "ui_element",
+      "importance_score": 0.48039877393416
+    },
+    {
+      "id": "el_5",
+      "bbox": [
+        1342,
+        708,
+        97,
+        68
+      ],
+      "area_ratio": 0.005089506172839506,
+      "contrast": 0.04336309805512428,
+      "hierarchy_level": 0,
+      "saliency_score": 0.0881781280040741,
+      "cta_score": 0.2847416437746733,
+      "type": "ui_element",
+      "importance_score": 0.24849797040224075
+    },
+    {
+      "id": "el_6",
+      "bbox": [
+        1308,
+        113,
+        103,
+        64
+      ],
+      "area_ratio": 0.00508641975308642,
+      "contrast": 0.31300151348114014,
+      "hierarchy_level": 0,
+      "saliency_score": 0.20986784994602203,
+      "cta_score": 0.5140606322245745,
+      "type": "ui_element",
+      "importance_score": 0.5032855413854123
+    },
+    {
+      "id": "el_7",
+      "bbox": [
+        1280,
+        226,
+        53,
+        74
+      ],
+      "area_ratio": 0.0030262345679012348,
+      "contrast": 0.11573398113250732,
+      "hierarchy_level": 0,
+      "saliency_score": 0.26391273736953735,
+      "cta_score": 0.3805933035212113,
+      "type": "ui_element",
+      "importance_score": 0.3921048492193222
+    },
+    {
+      "id": "el_8",
+      "bbox": [
+        178,
+        889,
+        327,
+        11
+      ],
+      "area_ratio": 0.002775462962962963,
+      "contrast": 0.10390256345272064,
+      "hierarchy_level": 0,
+      "saliency_score": 0.3677356541156769,
+      "cta_score": 0.30005110754713743,
+      "type": "ui_element",
+      "importance_score": 0.4407564408012799
+    },
+    {
+      "id": "el_9",
+      "bbox": [
+        119,
+        761,
+        41,
+        68
+      ],
+      "area_ratio": 0.0021512345679012344,
+      "contrast": 0.034394461661577225,
+      "hierarchy_level": 0,
+      "saliency_score": 0.08500132709741592,
+      "cta_score": 0.2563483445911787,
+      "type": "ui_element",
+      "importance_score": 0.24675072990357877
+    },
+    {
+      "id": "el_10",
+      "bbox": [
+        45,
+        747,
+        77,
+        29
+      ],
+      "area_ratio": 0.0017229938271604939,
+      "contrast": 0.03704528138041496,
+      "hierarchy_level": 0,
+      "saliency_score": 0.09052016586065292,
+      "cta_score": 0.2854058729792919,
+      "type": "ui_element",
+      "importance_score": 0.24978609122335912
+    },
+    {
+      "id": "el_11",
+      "bbox": [
+        406,
+        857,
+        63,
+        31
+      ],
+      "area_ratio": 0.0015069444444444444,
+      "contrast": 0.243336483836174,
+      "hierarchy_level": 0,
+      "saliency_score": 0.4559551179409027,
+      "cta_score": 0.4984091809040224,
+      "type": "ui_element",
+      "importance_score": 0.5888728033219066
+    },
+    {
+      "id": "el_12",
+      "bbox": [
+        4,
+        202,
+        33,
+        44
+      ],
+      "area_ratio": 0.0011203703703703703,
+      "contrast": 0.0629972591996193,
+      "hierarchy_level": 0,
+      "saliency_score": 0.1179925799369812,
+      "cta_score": 0.29012883457996136,
+      "type": "ui_element",
+      "importance_score": 0.2741796755364963
+    },
+    {
+      "id": "el_13",
+      "bbox": [
+        141,
+        42,
+        47,
+        30
+      ],
+      "area_ratio": 0.0010879629629629629,
+      "contrast": 0.06829064339399338,
+      "hierarchy_level": 0,
+      "saliency_score": 0.180773064494133,
+      "cta_score": 0.32077167465138784,
+      "type": "ui_element",
+      "importance_score": 0.31248993075319703
+    },
+    {
+      "id": "el_14",
+      "bbox": [
+        1268,
+        103,
+        27,
+        50
+      ],
+      "area_ratio": 0.0010416666666666667,
+      "contrast": 0.11271800100803375,
+      "hierarchy_level": 0,
+      "saliency_score": 0.1666872799396515,
+      "cta_score": 0.3353588097621107,
+      "type": "ui_element",
+      "importance_score": 0.3364765761154039
+    },
+    {
+      "id": "el_15",
+      "bbox": [
+        1330,
+        172,
+        24,
+        56
+      ],
+      "area_ratio": 0.001037037037037037,
+      "contrast": 0.09679292142391205,
+      "hierarchy_level": 0,
+      "saliency_score": 0.1897788792848587,
+      "cta_score": 0.3283815314435481,
+      "type": "ui_element",
+      "importance_score": 0.33780189890946666
+    },
+    {
+      "id": "el_16",
+      "bbox": [
+        62,
+        787,
+        27,
+        46
+      ],
+      "area_ratio": 0.0009583333333333333,
+      "contrast": 0.07966013252735138,
+      "hierarchy_level": 0,
+      "saliency_score": 0.1363203227519989,
+      "cta_score": 0.2725784497349698,
+      "type": "ui_element",
+      "importance_score": 0.29616198646170755
+    },
+    {
+      "id": "el_17",
+      "bbox": [
+        8,
+        760,
+        45,
+        24
+      ],
+      "area_ratio": 0.0008333333333333334,
+      "contrast": 0.10188495367765427,
+      "hierarchy_level": 0,
+      "saliency_score": 0.15646210312843323,
+      "cta_score": 0.31321399575794506,
+      "type": "ui_element",
+      "importance_score": 0.3231148379189628
+    }
+  ],
+  "visual_index": {
+    "layout_regions": [],
+    "text_clusters": [
+      {
+        "id": "text_12",
+        "bbox": [
+          868,
+          0,
+          572,
+          219
+        ],
+        "mean": 0.8273818492889404,
+        "area_ratio": 0.09665740740740741
+      },
+      {
+        "id": "text_1",
+        "bbox": [
+          945,
+          786,
+          495,
+          114
+        ],
+        "mean": 0.665951132774353,
+        "area_ratio": 0.043541666666666666
+      },
+      {
+        "id": "text_6",
+        "bbox": [
+          1198,
+          597,
+          91,
+          70
+        ],
+        "mean": 0.8220155835151672,
+        "area_ratio": 0.0049151234567901235
+      },
+      {
+        "id": "text_0",
+        "bbox": [
+          230,
+          803,
+          111,
+          49
+        ],
+        "mean": 0.6195957064628601,
+        "area_ratio": 0.0041967592592592595
+      },
+      {
+        "id": "text_5",
+        "bbox": [
+          1359,
+          640,
+          81,
+          55
+        ],
+        "mean": 0.7607811093330383,
+        "area_ratio": 0.0034375
+      }
+    ],
+    "contrast_regions": [
+      {
+        "id": "contrast_20",
+        "bbox": [
+          1342,
+          220,
+          82,
+          74
+        ],
+        "mean": 0.3442404568195343,
+        "area_ratio": 0.004682098765432099
+      },
+      {
+        "id": "contrast_13",
+        "bbox": [
+          108,
+          859,
+          113,
+          29
+        ],
+        "mean": 0.5344765782356262,
+        "area_ratio": 0.0025285493827160496
+      },
+      {
+        "id": "contrast_22",
+        "bbox": [
+          1358,
+          127,
+          53,
+          49
+        ],
+        "mean": 0.3919384777545929,
+        "area_ratio": 0.002003858024691358
+      }
+    ],
+    "minority_proxies": []
+  },
+  "behavioral_index": {
+    "version": "plura_mvp_v6",
+    "labels": [
+      "aspect_log_norm",
+      "log_area_norm",
+      "edge_density",
+      "contrast",
+      "colorfulness",
+      "saliency_entropy",
+      "saliency_focus",
+      "saliency_center_x",
+      "saliency_center_y",
+      "saliency_center_proximity",
+      "saliency_top10_mass",
+      "saliency_gini",
+      "symmetry_x",
+      "symmetry_y",
+      "dead_space_ratio",
+      "element_count_norm",
+      "element_entropy",
+      "top_element_weight",
+      "cta_count_norm",
+      "cta_area_ratio",
+      "cta_weight_share",
+      "text_area_ratio",
+      "text_weight_share",
+      "hierarchy_depth_norm",
+      "hierarchy_concentration",
+      "focus_fragmentation",
+      "focus_dominance",
+      "attention_decay"
+    ],
+    "vector": [
+      0.8357168780326684,
+      0.6450420006138298,
+      0.26195064187049866,
+      0.21253833174705505,
+      0.303217145274249,
+      0.9838828483925003,
+      0.016117151607499713,
+      0.4750680930089255,
+      0.49219303322050545,
+      0.8876414823643899,
+      0.17223875743540273,
+      0.2858549107381923,
+      0.829253539443016,
+      0.8488931059837341,
+      0.0997013888888889,
+      0.28125,
+      0.9841572815468954,
+      0.08534336961211095,
+      0.0,
+      0.0,
+      0.0,
+      0.7203641975308642,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.030914283017389018,
+      0.503586083650589
+    ]
+  },
+  "preliminary_doc": {
+    "format": "markdown",
+    "content": "# Preliminary Screenshot Analysis\n\nImage: 1440×900\nDetected elements: 18\nDetected CTAs (cta_score ≥ 0.62): 0\n\n## Indexing Summary\n- ui_element: 18\n\n## Top Indexed Elements\n- el_11 | ui_element | weight=0.085 | bbox=[406, 857, 63, 31]\n- el_2 | ui_element | weight=0.084 | bbox=[1339, 217, 87, 101]\n- el_4 | ui_element | weight=0.072 | bbox=[1328, 320, 101, 72]\n- el_0 | ui_element | weight=0.071 | bbox=[1300, 360, 140, 349]\n- el_1 | ui_element | weight=0.070 | bbox=[1260, 437, 48, 225]\n- el_6 | ui_element | weight=0.070 | bbox=[1308, 113, 103, 64]\n\n## Quant Metrics\nBXO: 26.1\nPlura Index: 26.1\nAttention zones (ratios): ignored=0.11, clarity=0.55, over_attention=0.34\nFocus: 0.02 | Clarity: 0.46\nFocal points: 40 | Dominance: 0.03 | Fragmentation: 1.00 | Decay: 0.50\nHeatmap legend: gray< 0.15, green in [0.15, 0.65), red>= 0.65\nEvaluation: Attention is diffuse with multiple competing areas. Visual hierarchy is serviceable but may compete with secondary elements.\n"
+  },
+  "final_report": {
+    "format": "markdown",
+    "content": "# Final Screenshot Report\n\n## Executive Summary\n- Behavioral clarity: Low (BXO 26.1)\n- Most compelling element: el_11 (ui_element)\n- Attention distribution: ignored=0.11, over_attention=0.34\n\n## Observations\n- Attention is diffuse with multiple competing areas. Visual hierarchy is serviceable but may compete with secondary elements.\n"
+  },
+  "export_urls": {
+    "markdown": "/api/plura/export/1a8b65ebca657f79068aa56cb75601d0/markdown/",
+    "xml": "/api/plura/export/1a8b65ebca657f79068aa56cb75601d0/xml/"
+  }
+}

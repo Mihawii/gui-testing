@@ -1,0 +1,1105 @@
+{
+  "success": true,
+  "cached": false,
+  "cache_key": "f4173a7da71ad7e728e9f9bb96bf405f",
+  "version": "plura_mvp_v6",
+  "intent": null,
+  "intent_kind": null,
+  "image": {
+    "width": 1440,
+    "height": 1080
+  },
+  "image_original": {
+    "width": 4032,
+    "height": 3024
+  },
+  "image_normalized": {
+    "width": 1440,
+    "height": 1080
+  },
+  "normalization": {
+    "canonical_width": 1440,
+    "aspect_preserved": true,
+    "luminance_normalized": true,
+    "exif_removed": true
+  },
+  "bxo_score": 25.040586553284843,
+  "plura_index_score": 25.040586553284843,
+  "metrics": {
+    "focus": 0.008717210988512991,
+    "clarity": 0.44815112834185017,
+    "alignment": null,
+    "focal_points": 8,
+    "fragmentation": 1.0,
+    "dominance": 0.17096958826222128,
+    "decay": 0.6120352447032928,
+    "intent_overlap": null,
+    "overall": 25.040586553284843
+  },
+  "attention_zones": {
+    "ignored": {
+      "ratio": 0.05647440843621399,
+      "pixels": 87829
+    },
+    "clarity": {
+      "ratio": 0.9064023919753087,
+      "pixels": 1409637
+    },
+    "over_attention": {
+      "ratio": 0.03712319958847737,
+      "pixels": 57734
+    }
+  },
+  "attention_frames": {
+    "immediate": {
+      "heatmap_url": "/api/plura/heatmap/f4173a7da71ad7e728e9f9bb96bf405f/?frame=immediate",
+      "attention_zones": {
+        "ignored": {
+          "ratio": 0.05522826646090535,
+          "pixels": 85891
+        },
+        "clarity": {
+          "ratio": 0.8828819444444445,
+          "pixels": 1373058
+        },
+        "over_attention": {
+          "ratio": 0.061889789094650205,
+          "pixels": 96251
+        }
+      },
+      "attention_points": [
+        {
+          "id": "p3",
+          "x_px": 842,
+          "y_px": 731,
+          "x_norm": 0.5847222222222223,
+          "y_norm": 0.6768518518518518,
+          "mass_share": 0.3558231239043131,
+          "peak_value": 1.0,
+          "bbox": [
+            428,
+            245,
+            518,
+            678
+          ]
+        },
+        {
+          "id": "p9",
+          "x_px": 199,
+          "y_px": 709,
+          "x_norm": 0.13819444444444445,
+          "y_norm": 0.6564814814814814,
+          "mass_share": 0.0011641852863236832,
+          "peak_value": 0.7855761051177979,
+          "bbox": [
+            180,
+            696,
+            40,
+            26
+          ]
+        },
+        {
+          "id": "p1",
+          "x_px": 620,
+          "y_px": 147,
+          "x_norm": 0.4305555555555556,
+          "y_norm": 0.1361111111111111,
+          "mass_share": 0.0008135704050922449,
+          "peak_value": 0.7037991285324097,
+          "bbox": [
+            610,
+            130,
+            22,
+            34
+          ]
+        },
+        {
+          "id": "p8",
+          "x_px": 1078,
+          "y_px": 549,
+          "x_norm": 0.7486111111111111,
+          "y_norm": 0.5083333333333333,
+          "mass_share": 0.0009654090869216389,
+          "peak_value": 0.6917018294334412,
+          "bbox": [
+            1067,
+            539,
+            31,
+            30
+          ]
+        },
+        {
+          "id": "p2",
+          "x_px": 729,
+          "y_px": 216,
+          "x_norm": 0.50625,
+          "y_norm": 0.2,
+          "mass_share": 0.0011168754527826534,
+          "peak_value": 0.6733100414276123,
+          "bbox": [
+            710,
+            201,
+            39,
+            27
+          ]
+        }
+      ]
+    },
+    "orienting": {
+      "heatmap_url": "/api/plura/heatmap/f4173a7da71ad7e728e9f9bb96bf405f/",
+      "attention_zones": {
+        "ignored": {
+          "ratio": 0.05647440843621399,
+          "pixels": 87829
+        },
+        "clarity": {
+          "ratio": 0.9064023919753087,
+          "pixels": 1409637
+        },
+        "over_attention": {
+          "ratio": 0.03712319958847737,
+          "pixels": 57734
+        }
+      },
+      "attention_points": [
+        {
+          "id": "p3",
+          "x_px": 842,
+          "y_px": 734,
+          "x_norm": 0.5847222222222223,
+          "y_norm": 0.6796296296296296,
+          "mass_share": 0.4733136856178768,
+          "peak_value": 1.0,
+          "bbox": [
+            154,
+            228,
+            742,
+            739
+          ]
+        },
+        {
+          "id": "p4",
+          "x_px": 636,
+          "y_px": 381,
+          "x_norm": 0.44166666666666665,
+          "y_norm": 0.3527777777777778,
+          "mass_share": 0.0056164958978084595,
+          "peak_value": 0.7112162113189697,
+          "bbox": [
+            616,
+            358,
+            100,
+            62
+          ]
+        },
+        {
+          "id": "p1",
+          "x_px": 620,
+          "y_px": 145,
+          "x_norm": 0.4305555555555556,
+          "y_norm": 0.13425925925925927,
+          "mass_share": 0.0015070203757528153,
+          "peak_value": 0.7109624147415161,
+          "bbox": [
+            605,
+            123,
+            34,
+            41
+          ]
+        },
+        {
+          "id": "p6",
+          "x_px": 1083,
+          "y_px": 553,
+          "x_norm": 0.7520833333333333,
+          "y_norm": 0.5120370370370371,
+          "mass_share": 0.0031999190112064384,
+          "peak_value": 0.6655113697052002,
+          "bbox": [
+            1067,
+            539,
+            56,
+            61
+          ]
+        },
+        {
+          "id": "p10",
+          "x_px": 97,
+          "y_px": 669,
+          "x_norm": 0.06736111111111111,
+          "y_norm": 0.6194444444444445,
+          "mass_share": 0.0019101648313555714,
+          "peak_value": 0.6221694350242615,
+          "bbox": [
+            82,
+            660,
+            56,
+            37
+          ]
+        }
+      ]
+    },
+    "scanning": {
+      "heatmap_url": "/api/plura/heatmap/f4173a7da71ad7e728e9f9bb96bf405f/?frame=scanning",
+      "attention_zones": {
+        "ignored": {
+          "ratio": 0.12583719135802468,
+          "pixels": 195702
+        },
+        "clarity": {
+          "ratio": 0.8226517489711934,
+          "pixels": 1279388
+        },
+        "over_attention": {
+          "ratio": 0.05151105967078189,
+          "pixels": 80110
+        }
+      },
+      "attention_points": [
+        {
+          "id": "p1",
+          "x_px": 781,
+          "y_px": 392,
+          "x_norm": 0.5423611111111111,
+          "y_norm": 0.362962962962963,
+          "mass_share": 0.21936844043742731,
+          "peak_value": 1.0,
+          "bbox": [
+            601,
+            83,
+            586,
+            368
+          ]
+        },
+        {
+          "id": "p7",
+          "x_px": 1129,
+          "y_px": 849,
+          "x_norm": 0.7840277777777778,
+          "y_norm": 0.7861111111111111,
+          "mass_share": 0.058744162130168816,
+          "peak_value": 0.8220643401145935,
+          "bbox": [
+            1061,
+            751,
+            379,
+            149
+          ]
+        },
+        {
+          "id": "p2",
+          "x_px": 319,
+          "y_px": 524,
+          "x_norm": 0.22152777777777777,
+          "y_norm": 0.48518518518518516,
+          "mass_share": 0.005007957074881772,
+          "peak_value": 0.6860480904579163,
+          "bbox": [
+            281,
+            495,
+            75,
+            59
+          ]
+        },
+        {
+          "id": "p5",
+          "x_px": 932,
+          "y_px": 664,
+          "x_norm": 0.6472222222222223,
+          "y_norm": 0.6148148148148148,
+          "mass_share": 0.013136768239264351,
+          "peak_value": 0.6841819882392883,
+          "bbox": [
+            879,
+            548,
+            83,
+            142
+          ]
+        },
+        {
+          "id": "p11",
+          "x_px": 595,
+          "y_px": 974,
+          "x_norm": 0.4131944444444444,
+          "y_norm": 0.9018518518518519,
+          "mass_share": 0.0025991672565148344,
+          "peak_value": 0.665179967880249,
+          "bbox": [
+            569,
+            952,
+            48,
+            49
+          ]
+        }
+      ]
+    }
+  },
+  "heatmap_legend": {
+    "alpha": 0.55,
+    "ignore_threshold": 0.15,
+    "over_attention_threshold": 0.65,
+    "zones": [
+      {
+        "key": "ignored",
+        "label": "Low attention",
+        "color_hex": "#808080",
+        "color_rgb": [
+          128,
+          128,
+          128
+        ],
+        "range": {
+          "lt": 0.15
+        }
+      },
+      {
+        "key": "clarity",
+        "label": "Mid attention",
+        "color_hex": "#00FF00",
+        "color_rgb": [
+          0,
+          255,
+          0
+        ],
+        "range": {
+          "gte": 0.15,
+          "lt": 0.65
+        }
+      },
+      {
+        "key": "over_attention",
+        "label": "High attention",
+        "color_hex": "#FF0000",
+        "color_rgb": [
+          255,
+          0,
+          0
+        ],
+        "range": {
+          "gte": 0.65
+        }
+      }
+    ]
+  },
+  "attention_points": [
+    {
+      "id": "p3",
+      "x_px": 842,
+      "y_px": 734,
+      "x_norm": 0.5847222222222223,
+      "y_norm": 0.6796296296296296,
+      "mass_share": 0.4733136856178768,
+      "peak_value": 1.0,
+      "bbox": [
+        154,
+        228,
+        742,
+        739
+      ]
+    },
+    {
+      "id": "p4",
+      "x_px": 636,
+      "y_px": 381,
+      "x_norm": 0.44166666666666665,
+      "y_norm": 0.3527777777777778,
+      "mass_share": 0.0056164958978084595,
+      "peak_value": 0.7112162113189697,
+      "bbox": [
+        616,
+        358,
+        100,
+        62
+      ]
+    },
+    {
+      "id": "p1",
+      "x_px": 620,
+      "y_px": 145,
+      "x_norm": 0.4305555555555556,
+      "y_norm": 0.13425925925925927,
+      "mass_share": 0.0015070203757528153,
+      "peak_value": 0.7109624147415161,
+      "bbox": [
+        605,
+        123,
+        34,
+        41
+      ]
+    },
+    {
+      "id": "p6",
+      "x_px": 1083,
+      "y_px": 553,
+      "x_norm": 0.7520833333333333,
+      "y_norm": 0.5120370370370371,
+      "mass_share": 0.0031999190112064384,
+      "peak_value": 0.6655113697052002,
+      "bbox": [
+        1067,
+        539,
+        56,
+        61
+      ]
+    },
+    {
+      "id": "p10",
+      "x_px": 97,
+      "y_px": 669,
+      "x_norm": 0.06736111111111111,
+      "y_norm": 0.6194444444444445,
+      "mass_share": 0.0019101648313555714,
+      "peak_value": 0.6221694350242615,
+      "bbox": [
+        82,
+        660,
+        56,
+        37
+      ]
+    }
+  ],
+  "top_elements": [
+    {
+      "id": "el_0",
+      "bbox": [
+        0,
+        79,
+        1064,
+        1001
+      ],
+      "type": "container",
+      "weight": 0.061674468250629916,
+      "cta_score": 0.3021116720336615,
+      "saliency_score": 0.40607646107673645
+    },
+    {
+      "id": "el_6",
+      "bbox": [
+        870,
+        539,
+        94,
+        147
+      ],
+      "type": "ui_element",
+      "weight": 0.054358543027220346,
+      "cta_score": 0.5527604451709753,
+      "saliency_score": 0.47682857513427734
+    },
+    {
+      "id": "el_1",
+      "bbox": [
+        1062,
+        363,
+        378,
+        558
+      ],
+      "type": "ui_element",
+      "weight": 0.05081834821680275,
+      "cta_score": 0.20595617265998148,
+      "saliency_score": 0.3308870792388916
+    },
+    {
+      "id": "el_4",
+      "bbox": [
+        655,
+        359,
+        193,
+        80
+      ],
+      "type": "ui_element",
+      "weight": 0.050099174960956526,
+      "cta_score": 0.5905968059763508,
+      "saliency_score": 0.43304163217544556
+    },
+    {
+      "id": "el_3",
+      "bbox": [
+        594,
+        82,
+        220,
+        152
+      ],
+      "type": "ui_element",
+      "weight": 0.04754628915436727,
+      "cta_score": 0.5643954288145038,
+      "saliency_score": 0.33861175179481506
+    },
+    {
+      "id": "el_2",
+      "bbox": [
+        833,
+        194,
+        345,
+        155
+      ],
+      "type": "ui_element",
+      "weight": 0.047155431026925265,
+      "cta_score": 0.5177732227401963,
+      "saliency_score": 0.2555356025695801
+    }
+  ],
+  "persona_runs": [],
+  "evaluation": "Attention is diffuse with multiple competing areas. Visual hierarchy appears weak or cluttered.",
+  "elements": [
+    {
+      "id": "el_0",
+      "bbox": [
+        0,
+        79,
+        1064,
+        1001
+      ],
+      "area_ratio": 0.6848405349794239,
+      "contrast": 0.21908965706825256,
+      "hierarchy_level": 0,
+      "saliency_score": 0.40607646107673645,
+      "cta_score": 0.3021116720336615,
+      "type": "container",
+      "importance_score": 0.5441203800695283
+    },
+    {
+      "id": "el_1",
+      "bbox": [
+        1062,
+        363,
+        378,
+        558
+      ],
+      "area_ratio": 0.135625,
+      "contrast": 0.16713722050189972,
+      "hierarchy_level": 0,
+      "saliency_score": 0.3308870792388916,
+      "cta_score": 0.20595617265998148,
+      "type": "ui_element",
+      "importance_score": 0.4656573367970331
+    },
+    {
+      "id": "el_2",
+      "bbox": [
+        833,
+        194,
+        345,
+        155
+      ],
+      "area_ratio": 0.03438464506172839,
+      "contrast": 0.20148733258247375,
+      "hierarchy_level": 0,
+      "saliency_score": 0.2555356025695801,
+      "cta_score": 0.5177732227401963,
+      "type": "ui_element",
+      "importance_score": 0.4487498189721789
+    },
+    {
+      "id": "el_3",
+      "bbox": [
+        594,
+        82,
+        220,
+        152
+      ],
+      "area_ratio": 0.021502057613168726,
+      "contrast": 0.1715150773525238,
+      "hierarchy_level": 1,
+      "saliency_score": 0.33861175179481506,
+      "cta_score": 0.5643954288145038,
+      "type": "ui_element",
+      "importance_score": 0.4396996139770463
+    },
+    {
+      "id": "el_4",
+      "bbox": [
+        655,
+        359,
+        193,
+        80
+      ],
+      "area_ratio": 0.00992798353909465,
+      "contrast": 0.14307114481925964,
+      "hierarchy_level": 1,
+      "saliency_score": 0.43304163217544556,
+      "cta_score": 0.5905968059763508,
+      "type": "ui_element",
+      "importance_score": 0.47131895351977576
+    },
+    {
+      "id": "el_5",
+      "bbox": [
+        1288,
+        900,
+        152,
+        91
+      ],
+      "area_ratio": 0.0088940329218107,
+      "contrast": 0.13899053633213043,
+      "hierarchy_level": 0,
+      "saliency_score": 0.22252483665943146,
+      "cta_score": 0.395682699590649,
+      "type": "ui_element",
+      "importance_score": 0.3859533289713519
+    },
+    {
+      "id": "el_6",
+      "bbox": [
+        870,
+        539,
+        94,
+        147
+      ],
+      "area_ratio": 0.008885030864197532,
+      "contrast": 0.21178171038627625,
+      "hierarchy_level": 1,
+      "saliency_score": 0.47682857513427734,
+      "cta_score": 0.5527604451709753,
+      "type": "ui_element",
+      "importance_score": 0.5444807475521452
+    },
+    {
+      "id": "el_7",
+      "bbox": [
+        723,
+        931,
+        73,
+        149
+      ],
+      "area_ratio": 0.006993955761316872,
+      "contrast": 0.1176721379160881,
+      "hierarchy_level": 1,
+      "saliency_score": 0.28674453496932983,
+      "cta_score": 0.3828629191579614,
+      "type": "ui_element",
+      "importance_score": 0.37271340226843247
+    },
+    {
+      "id": "el_8",
+      "bbox": [
+        1236,
+        0,
+        65,
+        147
+      ],
+      "area_ratio": 0.006143904320987654,
+      "contrast": 0.14790335297584534,
+      "hierarchy_level": 0,
+      "saliency_score": 0.16641215980052948,
+      "cta_score": 0.3747080868545864,
+      "type": "ui_element",
+      "importance_score": 0.36145765430160937
+    },
+    {
+      "id": "el_9",
+      "bbox": [
+        542,
+        965,
+        77,
+        115
+      ],
+      "area_ratio": 0.0056938014403292185,
+      "contrast": 0.10276234149932861,
+      "hierarchy_level": 1,
+      "saliency_score": 0.3751787543296814,
+      "cta_score": 0.3860572305204838,
+      "type": "ui_element",
+      "importance_score": 0.4107023683332262
+    },
+    {
+      "id": "el_10",
+      "bbox": [
+        1218,
+        270,
+        91,
+        91
+      ],
+      "area_ratio": 0.0053247170781893,
+      "contrast": 0.191926509141922,
+      "hierarchy_level": 0,
+      "saliency_score": 0.2731943726539612,
+      "cta_score": 0.4550042666789774,
+      "type": "ui_element",
+      "importance_score": 0.45163298291819437
+    },
+    {
+      "id": "el_11",
+      "bbox": [
+        1064,
+        825,
+        109,
+        66
+      ],
+      "area_ratio": 0.004625771604938271,
+      "contrast": 0.07577434182167053,
+      "hierarchy_level": 1,
+      "saliency_score": 0.24927860498428345,
+      "cta_score": 0.36806806580389934,
+      "type": "ui_element",
+      "importance_score": 0.3221801435663587
+    },
+    {
+      "id": "el_12",
+      "bbox": [
+        1035,
+        345,
+        86,
+        62
+      ],
+      "area_ratio": 0.0034284979423868313,
+      "contrast": 0.17840628325939178,
+      "hierarchy_level": 0,
+      "saliency_score": 0.30307239294052124,
+      "cta_score": 0.47808990159089715,
+      "type": "ui_element",
+      "importance_score": 0.45840858987399513
+    },
+    {
+      "id": "el_13",
+      "bbox": [
+        1176,
+        198,
+        96,
+        54
+      ],
+      "area_ratio": 0.0033333333333333335,
+      "contrast": 0.12317107617855072,
+      "hierarchy_level": 0,
+      "saliency_score": 0.19022084772586823,
+      "cta_score": 0.39695212431299554,
+      "type": "ui_element",
+      "importance_score": 0.35688652066247806
+    },
+    {
+      "id": "el_14",
+      "bbox": [
+        954,
+        382,
+        66,
+        70
+      ],
+      "area_ratio": 0.002970679012345679,
+      "contrast": 0.10628846287727356,
+      "hierarchy_level": 1,
+      "saliency_score": 0.42456427216529846,
+      "cta_score": 0.4573833296819989,
+      "type": "ui_element",
+      "importance_score": 0.4403830612699191
+    },
+    {
+      "id": "el_15",
+      "bbox": [
+        1364,
+        308,
+        76,
+        58
+      ],
+      "area_ratio": 0.0028343621399176955,
+      "contrast": 0.1666925549507141,
+      "hierarchy_level": 0,
+      "saliency_score": 0.28488609194755554,
+      "cta_score": 0.4193969545214773,
+      "type": "ui_element",
+      "importance_score": 0.4400391755359514
+    },
+    {
+      "id": "el_16",
+      "bbox": [
+        1249,
+        979,
+        41,
+        101
+      ],
+      "area_ratio": 0.002662680041152263,
+      "contrast": 0.12585212290287018,
+      "hierarchy_level": 0,
+      "saliency_score": 0.22527024149894714,
+      "cta_score": 0.3263154756999617,
+      "type": "ui_element",
+      "importance_score": 0.3780787206121854
+    },
+    {
+      "id": "el_17",
+      "bbox": [
+        779,
+        896,
+        89,
+        32
+      ],
+      "area_ratio": 0.001831275720164609,
+      "contrast": 0.13473103940486908,
+      "hierarchy_level": 1,
+      "saliency_score": 0.3364049196243286,
+      "cta_score": 0.44368892292542067,
+      "type": "ui_element",
+      "importance_score": 0.4122115434635254
+    },
+    {
+      "id": "el_18",
+      "bbox": [
+        1299,
+        5,
+        41,
+        65
+      ],
+      "area_ratio": 0.0017136059670781892,
+      "contrast": 0.04435000196099281,
+      "hierarchy_level": 0,
+      "saliency_score": 0.10766693204641342,
+      "cta_score": 0.27281510005830206,
+      "type": "ui_element",
+      "importance_score": 0.2592168126255274
+    },
+    {
+      "id": "el_19",
+      "bbox": [
+        546,
+        520,
+        70,
+        35
+      ],
+      "area_ratio": 0.0015753600823045267,
+      "contrast": 0.046421051025390625,
+      "hierarchy_level": 1,
+      "saliency_score": 0.47867876291275024,
+      "cta_score": 0.4604899623853063,
+      "type": "ui_element",
+      "importance_score": 0.42993998626867935
+    },
+    {
+      "id": "el_20",
+      "bbox": [
+        582,
+        958,
+        47,
+        37
+      ],
+      "area_ratio": 0.0011181841563786008,
+      "contrast": 0.0662478506565094,
+      "hierarchy_level": 1,
+      "saliency_score": 0.32488933205604553,
+      "cta_score": 0.3476872104409282,
+      "type": "ui_element",
+      "importance_score": 0.3569614069092842
+    },
+    {
+      "id": "el_21",
+      "bbox": [
+        625,
+        1025,
+        29,
+        55
+      ],
+      "area_ratio": 0.0010255915637860083,
+      "contrast": 0.06768084317445755,
+      "hierarchy_level": 1,
+      "saliency_score": 0.3277139365673065,
+      "cta_score": 0.322872997966479,
+      "type": "ui_element",
+      "importance_score": 0.35953850547472643
+    },
+    {
+      "id": "el_22",
+      "bbox": [
+        1390,
+        899,
+        41,
+        34
+      ],
+      "area_ratio": 0.0008963477366255144,
+      "contrast": 0.07299722731113434,
+      "hierarchy_level": 0,
+      "saliency_score": 0.2311152070760727,
+      "cta_score": 0.3017636184517545,
+      "type": "ui_element",
+      "importance_score": 0.3435399548283645
+    },
+    {
+      "id": "el_23",
+      "bbox": [
+        559,
+        945,
+        48,
+        27
+      ],
+      "area_ratio": 0.0008333333333333334,
+      "contrast": 0.07837948948144913,
+      "hierarchy_level": 1,
+      "saliency_score": 0.3922218382358551,
+      "cta_score": 0.3822982974439958,
+      "type": "ui_element",
+      "importance_score": 0.4026597416117078
+    },
+    {
+      "id": "el_24",
+      "bbox": [
+        781,
+        145,
+        52,
+        24
+      ],
+      "area_ratio": 0.0008024691358024691,
+      "contrast": 0.06997255235910416,
+      "hierarchy_level": 1,
+      "saliency_score": 0.3079918622970581,
+      "cta_score": 0.409149545874772,
+      "type": "ui_element",
+      "importance_score": 0.3503282997579802
+    }
+  ],
+  "visual_index": {
+    "layout_regions": [
+      {
+        "id": "el_0",
+        "kind": "header",
+        "bbox": [
+          0,
+          79,
+          1064,
+          1001
+        ],
+        "score": 0.6848405349794239
+      },
+      {
+        "id": "el_1",
+        "kind": "right_sidebar",
+        "bbox": [
+          1062,
+          363,
+          378,
+          558
+        ],
+        "score": 0.135625
+      }
+    ],
+    "text_clusters": [
+      {
+        "id": "text_15",
+        "bbox": [
+          615,
+          72,
+          634,
+          250
+        ],
+        "mean": 0.385367751121521,
+        "area_ratio": 0.10191615226337448
+      },
+      {
+        "id": "text_5",
+        "bbox": [
+          1053,
+          721,
+          387,
+          189
+        ],
+        "mean": 0.433120459318161,
+        "area_ratio": 0.04703125
+      },
+      {
+        "id": "text_14",
+        "bbox": [
+          654,
+          321,
+          202,
+          120
+        ],
+        "mean": 0.8758760094642639,
+        "area_ratio": 0.01558641975308642
+      },
+      {
+        "id": "text_13",
+        "bbox": [
+          1033,
+          343,
+          91,
+          68
+        ],
+        "mean": 0.8228116035461426,
+        "area_ratio": 0.003978909465020576
+      },
+      {
+        "id": "text_12",
+        "bbox": [
+          273,
+          492,
+          90,
+          65
+        ],
+        "mean": 0.8205099105834961,
+        "area_ratio": 0.003761574074074074
+      }
+    ],
+    "contrast_regions": [],
+    "minority_proxies": []
+  },
+  "behavioral_index": {
+    "version": "plura_mvp_v6",
+    "labels": [
+      "aspect_log_norm",
+      "log_area_norm",
+      "edge_density",
+      "contrast",
+      "colorfulness",
+      "saliency_entropy",
+      "saliency_focus",
+      "saliency_center_x",
+      "saliency_center_y",
+      "saliency_center_proximity",
+      "saliency_top10_mass",
+      "saliency_gini",
+      "symmetry_x",
+      "symmetry_y",
+      "dead_space_ratio",
+      "element_count_norm",
+      "element_entropy",
+      "top_element_weight",
+      "cta_count_norm",
+      "cta_area_ratio",
+      "cta_weight_share",
+      "text_area_ratio",
+      "text_weight_share",
+      "hierarchy_depth_norm",
+      "hierarchy_concentration",
+      "focus_fragmentation",
+      "focus_dominance",
+      "attention_decay"
+    ],
+    "vector": [
+      0.7054871946084149,
+      0.6767144990328798,
+      0.08174191415309906,
+      0.2482631802558899,
+      0.3149225082668314,
+      0.9898671408576539,
+      0.010132859142346073,
+      0.45932776667824876,
+      0.5327328318683388,
+      0.836677086709279,
+      0.17858867136615791,
+      0.2317095749525285,
+      0.8571464568376541,
+      0.8886279836297035,
+      0.05626543209876543,
+      0.390625,
+      0.9930130256439497,
+      0.061674468250629916,
+      0.0,
+      0.0,
+      0.0,
+      0.2247902199074074,
+      0.0,
+      0.16666666666666666,
+      0.9114902368806623,
+      1.0,
+      0.17096958826222128,
+      0.6120352447032928
+    ]
+  },
+  "preliminary_doc": {
+    "format": "markdown",
+    "content": "# Preliminary Screenshot Analysis\n\nImage: 1440×1080\nDetected elements: 25\nDetected CTAs (cta_score ≥ 0.62): 0\n\n## Indexing Summary\n- ui_element: 24\n- container: 1\n\n## Top Indexed Elements\n- el_0 | container | weight=0.062 | bbox=[0, 79, 1064, 1001]\n- el_6 | ui_element | weight=0.054 | bbox=[870, 539, 94, 147]\n- el_1 | ui_element | weight=0.051 | bbox=[1062, 363, 378, 558]\n- el_4 | ui_element | weight=0.050 | bbox=[655, 359, 193, 80]\n- el_3 | ui_element | weight=0.048 | bbox=[594, 82, 220, 152]\n- el_2 | ui_element | weight=0.047 | bbox=[833, 194, 345, 155]\n\n## Quant Metrics\nBXO: 25.0\nPlura Index: 25.0\nAttention zones (ratios): ignored=0.06, clarity=0.91, over_attention=0.04\nFocus: 0.01 | Clarity: 0.45\nFocal points: 8 | Dominance: 0.17 | Fragmentation: 1.00 | Decay: 0.61\nHeatmap legend: gray< 0.15, green in [0.15, 0.65), red>= 0.65\nEvaluation: Attention is diffuse with multiple competing areas. Visual hierarchy appears weak or cluttered.\n"
+  },
+  "final_report": {
+    "format": "markdown",
+    "content": "# Final Screenshot Report\n\n## Executive Summary\n- Behavioral clarity: Low (BXO 25.0)\n- Most compelling element: el_0 (container)\n- Attention distribution: ignored=0.06, over_attention=0.04\n\n## Observations\n- Attention is diffuse with multiple competing areas. Visual hierarchy appears weak or cluttered.\n"
+  },
+  "export_urls": {
+    "markdown": "/api/plura/export/f4173a7da71ad7e728e9f9bb96bf405f/markdown/",
+    "xml": "/api/plura/export/f4173a7da71ad7e728e9f9bb96bf405f/xml/"
+  }
+}

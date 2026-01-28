@@ -1,0 +1,18 @@
+{
+  "query": "wiki_security software",
+  "results": [
+    {
+      "title": "Security software",
+      "url": "https://en.wikipedia.org/wiki/Security_software",
+      "query": "security software",
+      "source": "wikipedia"
+    },
+    {
+      "title": "Security Software from AVG",
+      "url": "https://en.wikipedia.org/wiki/Security_Software_from_AVG",
+      "query": "security software",
+      "source": "wikipedia"
+    }
+  ],
+  "timestamp": 1761178014.630086
+}

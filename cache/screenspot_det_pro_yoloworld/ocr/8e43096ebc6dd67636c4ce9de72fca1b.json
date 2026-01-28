@@ -1,0 +1,1 @@
+{"engine": "easyocr", "max_dim": 960, "lang": "eng", "psm": 11, "image_hw": {"h": 405, "w": 1440}, "words": [{"bbox_xywh": [975, 177, 42, 9], "text": "0 4", "conf": 0.027751549405018106}, {"bbox_xywh": [906, 318, 51, 6], "text": "e", "conf": 0.011758854801030338}], "meta": {"available": true, "engine": "easyocr", "langs": ["en"], "gpu": false, "reader_cached": true, "words": 2}}

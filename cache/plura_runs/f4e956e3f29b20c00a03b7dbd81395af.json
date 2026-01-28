@@ -1,0 +1,801 @@
+{
+  "success": true,
+  "cached": false,
+  "cache_key": "f4e956e3f29b20c00a03b7dbd81395af",
+  "version": "plura_mvp_v4",
+  "intent": null,
+  "image": {
+    "width": 1440,
+    "height": 900
+  },
+  "bxo_score": 39.8784553875287,
+  "plura_index_score": 39.8784553875287,
+  "metrics": {
+    "focus": 0.25526249524355354,
+    "clarity": 0.516211692755796,
+    "alignment": null,
+    "focal_points": 15,
+    "fragmentation": 1.0,
+    "dominance": 0.13607719154483883,
+    "decay": 0.05913504301741614,
+    "intent_overlap": null,
+    "overall": 39.8784553875287
+  },
+  "attention_zones": {
+    "ignored": {
+      "ratio": 0.37138503086419755,
+      "pixels": 481315
+    },
+    "clarity": {
+      "ratio": 0.620966049382716,
+      "pixels": 804772
+    },
+    "over_attention": {
+      "ratio": 0.00764891975308642,
+      "pixels": 9913
+    }
+  },
+  "top_elements": [
+    {
+      "id": "el_1",
+      "bbox": [
+        0,
+        0,
+        1440,
+        257
+      ],
+      "type": "container",
+      "weight": 0.397401194934194,
+      "cta_score": 0.16567232746398275,
+      "saliency_score": 0.22583335638046265
+    },
+    {
+      "id": "el_0",
+      "bbox": [
+        0,
+        540,
+        1440,
+        289
+      ],
+      "type": "container",
+      "weight": 0.3768160639582709,
+      "cta_score": 0.12250750370868675,
+      "saliency_score": 0.190424844622612
+    },
+    {
+      "id": "el_3",
+      "bbox": [
+        217,
+        352,
+        1006,
+        36
+      ],
+      "type": "ui_element",
+      "weight": 0.05835886793945909,
+      "cta_score": 0.41604698630079384,
+      "saliency_score": 0.3388916850090027
+    },
+    {
+      "id": "el_2",
+      "bbox": [
+        174,
+        828,
+        1266,
+        30
+      ],
+      "type": "ui_element",
+      "weight": 0.04974334249778842,
+      "cta_score": 0.34018115893309564,
+      "saliency_score": 0.27544477581977844
+    },
+    {
+      "id": "el_4",
+      "bbox": [
+        900,
+        0,
+        281,
+        28
+      ],
+      "type": "ui_element",
+      "weight": 0.012086905498707454,
+      "cta_score": 0.34588277330382416,
+      "saliency_score": 0.323076456785202
+    },
+    {
+      "id": "el_6",
+      "bbox": [
+        350,
+        398,
+        174,
+        21
+      ],
+      "type": "ui_element",
+      "weight": 0.010736446714793037,
+      "cta_score": 0.4641130585754154,
+      "saliency_score": 0.617940366268158
+    }
+  ],
+  "persona_runs": [],
+  "evaluation": "Focus is low (focus=0.26). Clarity is medium (clarity=0.52). Dominant detected region type: container.",
+  "elements": [
+    {
+      "id": "el_0",
+      "bbox": [
+        0,
+        540,
+        1440,
+        289
+      ],
+      "area_ratio": 0.3211111111111111,
+      "contrast": 0.06469109654426575,
+      "hierarchy_level": 0,
+      "saliency_score": 0.190424844622612,
+      "cta_score": 0.12250750370868675,
+      "type": "container",
+      "importance_score": 0.3152273049311979
+    },
+    {
+      "id": "el_1",
+      "bbox": [
+        0,
+        0,
+        1440,
+        257
+      ],
+      "area_ratio": 0.28555555555555556,
+      "contrast": 0.09962739795446396,
+      "hierarchy_level": 0,
+      "saliency_score": 0.22583335638046265,
+      "cta_score": 0.16567232746398275,
+      "type": "container",
+      "importance_score": 0.35965648740530015
+    },
+    {
+      "id": "el_2",
+      "bbox": [
+        174,
+        828,
+        1266,
+        30
+      ],
+      "area_ratio": 0.029305555555555557,
+      "contrast": 0.11581041663885117,
+      "hierarchy_level": 0,
+      "saliency_score": 0.27544477581977844,
+      "cta_score": 0.34018115893309564,
+      "type": "ui_element",
+      "importance_score": 0.39850206715720043
+    },
+    {
+      "id": "el_3",
+      "bbox": [
+        217,
+        352,
+        1006,
+        36
+      ],
+      "area_ratio": 0.027944444444444445,
+      "contrast": 0.07599969208240509,
+      "hierarchy_level": 0,
+      "saliency_score": 0.3388916850090027,
+      "cta_score": 0.41604698630079384,
+      "type": "ui_element",
+      "importance_score": 0.4049616353852409
+    },
+    {
+      "id": "el_4",
+      "bbox": [
+        900,
+        0,
+        281,
+        28
+      ],
+      "area_ratio": 0.006070987654320988,
+      "contrast": 0.12070731818675995,
+      "hierarchy_level": 1,
+      "saliency_score": 0.323076456785202,
+      "cta_score": 0.34588277330382416,
+      "type": "ui_element",
+      "importance_score": 0.39486394517478496
+    },
+    {
+      "id": "el_5",
+      "bbox": [
+        349,
+        423,
+        176,
+        21
+      ],
+      "area_ratio": 0.002851851851851852,
+      "contrast": 0.10637528449296951,
+      "hierarchy_level": 0,
+      "saliency_score": 0.4043354094028473,
+      "cta_score": 0.37406769493467695,
+      "type": "ui_element",
+      "importance_score": 0.4626525355236871
+    },
+    {
+      "id": "el_6",
+      "bbox": [
+        350,
+        398,
+        174,
+        21
+      ],
+      "area_ratio": 0.0028194444444444443,
+      "contrast": 0.19743213057518005,
+      "hierarchy_level": 0,
+      "saliency_score": 0.617940366268158,
+      "cta_score": 0.4641130585754154,
+      "type": "ui_element",
+      "importance_score": 0.6451758661440441
+    },
+    {
+      "id": "el_7",
+      "bbox": [
+        98,
+        0,
+        82,
+        28
+      ],
+      "area_ratio": 0.001771604938271605,
+      "contrast": 0.12842677533626556,
+      "hierarchy_level": 1,
+      "saliency_score": 0.32254520058631897,
+      "cta_score": 0.417366452557995,
+      "type": "ui_element",
+      "importance_score": 0.40008565222933185
+    },
+    {
+      "id": "el_8",
+      "bbox": [
+        393,
+        838,
+        46,
+        46
+      ],
+      "area_ratio": 0.001632716049382716,
+      "contrast": 0.17792779207229614,
+      "hierarchy_level": 0,
+      "saliency_score": 0.30686745047569275,
+      "cta_score": 0.39769261729228417,
+      "type": "ui_element",
+      "importance_score": 0.46015409209898545
+    },
+    {
+      "id": "el_9",
+      "bbox": [
+        1084,
+        842,
+        43,
+        43
+      ],
+      "area_ratio": 0.0014266975308641974,
+      "contrast": 0.10217314958572388,
+      "hierarchy_level": 0,
+      "saliency_score": 0.26796483993530273,
+      "cta_score": 0.33468645241893924,
+      "type": "ui_element",
+      "importance_score": 0.38464719738279074
+    },
+    {
+      "id": "el_10",
+      "bbox": [
+        444,
+        842,
+        43,
+        42
+      ],
+      "area_ratio": 0.0013935185185185185,
+      "contrast": 0.15855303406715393,
+      "hierarchy_level": 0,
+      "saliency_score": 0.3035314381122589,
+      "cta_score": 0.3853935794446435,
+      "type": "ui_element",
+      "importance_score": 0.4444801724382809
+    },
+    {
+      "id": "el_11",
+      "bbox": [
+        290,
+        842,
+        43,
+        42
+      ],
+      "area_ratio": 0.0013935185185185185,
+      "contrast": 0.11515253037214279,
+      "hierarchy_level": 0,
+      "saliency_score": 0.3542652130126953,
+      "cta_score": 0.3615697687102764,
+      "type": "ui_element",
+      "importance_score": 0.4413833888513702
+    },
+    {
+      "id": "el_12",
+      "bbox": [
+        187,
+        842,
+        43,
+        42
+      ],
+      "area_ratio": 0.0013935185185185185,
+      "contrast": 0.20361605286598206,
+      "hierarchy_level": 0,
+      "saliency_score": 0.40926578640937805,
+      "cta_score": 0.4245158963051234,
+      "type": "ui_element",
+      "importance_score": 0.534821934572288
+    },
+    {
+      "id": "el_13",
+      "bbox": [
+        907,
+        842,
+        43,
+        42
+      ],
+      "area_ratio": 0.0013935185185185185,
+      "contrast": 0.18232569098472595,
+      "hierarchy_level": 0,
+      "saliency_score": 0.6506927013397217,
+      "cta_score": 0.4805018997273628,
+      "type": "ui_element",
+      "importance_score": 0.6523993364402227
+    },
+    {
+      "id": "el_14",
+      "bbox": [
+        650,
+        842,
+        43,
+        42
+      ],
+      "area_ratio": 0.0013935185185185185,
+      "contrast": 0.07553452253341675,
+      "hierarchy_level": 0,
+      "saliency_score": 0.312400221824646,
+      "cta_score": 0.3386859699033944,
+      "type": "ui_element",
+      "importance_score": 0.39005906667028156
+    },
+    {
+      "id": "el_15",
+      "bbox": [
+        982,
+        842,
+        42,
+        42
+      ],
+      "area_ratio": 0.0013611111111111111,
+      "contrast": 0.1811189353466034,
+      "hierarchy_level": 0,
+      "saliency_score": 0.4558374583721161,
+      "cta_score": 0.4323615949729393,
+      "type": "ui_element",
+      "importance_score": 0.5443669844950949
+    },
+    {
+      "id": "el_16",
+      "bbox": [
+        496,
+        842,
+        42,
+        42
+      ],
+      "area_ratio": 0.0013611111111111111,
+      "contrast": 0.12448008358478546,
+      "hierarchy_level": 0,
+      "saliency_score": 0.28923678398132324,
+      "cta_score": 0.36135325683966263,
+      "type": "ui_element",
+      "importance_score": 0.412280290893146
+    },
+    {
+      "id": "el_17",
+      "bbox": [
+        856,
+        842,
+        42,
+        42
+      ],
+      "area_ratio": 0.0013611111111111111,
+      "contrast": 0.1145503968000412,
+      "hierarchy_level": 0,
+      "saliency_score": 0.33575546741485596,
+      "cta_score": 0.3666911527118358,
+      "type": "ui_element",
+      "importance_score": 0.43077293336391453
+    },
+    {
+      "id": "el_18",
+      "bbox": [
+        753,
+        842,
+        42,
+        42
+      ],
+      "area_ratio": 0.0013611111111111111,
+      "contrast": 0.1437096744775772,
+      "hierarchy_level": 0,
+      "saliency_score": 0.39068859815597534,
+      "cta_score": 0.3994665020389949,
+      "type": "ui_element",
+      "importance_score": 0.4818142107554845
+    },
+    {
+      "id": "el_19",
+      "bbox": [
+        239,
+        843,
+        42,
+        41
+      ],
+      "area_ratio": 0.0013287037037037037,
+      "contrast": 0.12348498404026031,
+      "hierarchy_level": 0,
+      "saliency_score": 0.39124298095703125,
+      "cta_score": 0.3717887297684115,
+      "type": "ui_element",
+      "importance_score": 0.46767291384083887
+    },
+    {
+      "id": "el_20",
+      "bbox": [
+        1034,
+        842,
+        41,
+        42
+      ],
+      "area_ratio": 0.0013287037037037037,
+      "contrast": 0.18932311236858368,
+      "hierarchy_level": 0,
+      "saliency_score": 0.47702768445014954,
+      "cta_score": 0.4393465537680235,
+      "type": "ui_element",
+      "importance_score": 0.5618817352822849
+    },
+    {
+      "id": "el_21",
+      "bbox": [
+        341,
+        844,
+        43,
+        40
+      ],
+      "area_ratio": 0.0013271604938271606,
+      "contrast": 0.12446794658899307,
+      "hierarchy_level": 0,
+      "saliency_score": 0.3531554937362671,
+      "cta_score": 0.37057592477285944,
+      "type": "ui_element",
+      "importance_score": 0.44742691197565626
+    },
+    {
+      "id": "el_22",
+      "bbox": [
+        547,
+        844,
+        43,
+        40
+      ],
+      "area_ratio": 0.0013271604938271606,
+      "contrast": 0.12501542270183563,
+      "hierarchy_level": 0,
+      "saliency_score": 0.3716575503349304,
+      "cta_score": 0.38283980142196794,
+      "type": "ui_element",
+      "importance_score": 0.4579940974712372
+    },
+    {
+      "id": "el_23",
+      "bbox": [
+        1136,
+        844,
+        43,
+        40
+      ],
+      "area_ratio": 0.0013271604938271606,
+      "contrast": 0.051305778324604034,
+      "hierarchy_level": 0,
+      "saliency_score": 0.1445852667093277,
+      "cta_score": 0.27178706295285243,
+      "type": "ui_element",
+      "importance_score": 0.28045459549341883
+    },
+    {
+      "id": "el_24",
+      "bbox": [
+        1212,
+        841,
+        39,
+        44
+      ],
+      "area_ratio": 0.001324074074074074,
+      "contrast": 0.0951770693063736,
+      "hierarchy_level": 0,
+      "saliency_score": 0.20280013978481293,
+      "cta_score": 0.30548416588576804,
+      "type": "ui_element",
+      "importance_score": 0.34380941210048543
+    },
+    {
+      "id": "el_25",
+      "bbox": [
+        567,
+        790,
+        84,
+        18
+      ],
+      "area_ratio": 0.0011666666666666668,
+      "contrast": 0.16400198638439178,
+      "hierarchy_level": 1,
+      "saliency_score": 0.49700191617012024,
+      "cta_score": 0.4556320720446456,
+      "type": "ui_element",
+      "importance_score": 0.5214477108347984
+    },
+    {
+      "id": "el_26",
+      "bbox": [
+        220,
+        280,
+        36,
+        41
+      ],
+      "area_ratio": 0.001138888888888889,
+      "contrast": 0.2387777715921402,
+      "hierarchy_level": 0,
+      "saliency_score": 0.47689902782440186,
+      "cta_score": 0.5147136358853283,
+      "type": "ui_element",
+      "importance_score": 0.5971357307263783
+    },
+    {
+      "id": "el_27",
+      "bbox": [
+        702,
+        848,
+        41,
+        36
+      ],
+      "area_ratio": 0.001138888888888889,
+      "contrast": 0.19387467205524445,
+      "hierarchy_level": 0,
+      "saliency_score": 0.4174305200576782,
+      "cta_score": 0.4395570862701211,
+      "type": "ui_element",
+      "importance_score": 0.5323544089283263
+    },
+    {
+      "id": "el_28",
+      "bbox": [
+        680,
+        11,
+        86,
+        16
+      ],
+      "area_ratio": 0.0010617283950617284,
+      "contrast": 0.05649225041270256,
+      "hierarchy_level": 1,
+      "saliency_score": 0.2480486035346985,
+      "cta_score": 0.3352251191103501,
+      "type": "ui_element",
+      "importance_score": 0.3077307203341098
+    },
+    {
+      "id": "el_29",
+      "bbox": [
+        598,
+        842,
+        37,
+        37
+      ],
+      "area_ratio": 0.0010563271604938271,
+      "contrast": 0.17868325114250183,
+      "hierarchy_level": 0,
+      "saliency_score": 0.4317265748977661,
+      "cta_score": 0.42947654825153087,
+      "type": "ui_element",
+      "importance_score": 0.5293662241527013
+    },
+    {
+      "id": "el_30",
+      "bbox": [
+        313,
+        6,
+        61,
+        22
+      ],
+      "area_ratio": 0.001035493827160494,
+      "contrast": 0.14149750769138336,
+      "hierarchy_level": 1,
+      "saliency_score": 0.3512570559978485,
+      "cta_score": 0.4449933857480408,
+      "type": "ui_element",
+      "importance_score": 0.4252134101021858
+    },
+    {
+      "id": "el_31",
+      "bbox": [
+        666,
+        77,
+        108,
+        12
+      ],
+      "area_ratio": 0.001,
+      "contrast": 0.13257348537445068,
+      "hierarchy_level": 1,
+      "saliency_score": 0.40409591794013977,
+      "cta_score": 0.3657121136834224,
+      "type": "ui_element",
+      "importance_score": 0.447900482515494
+    },
+    {
+      "id": "el_32",
+      "bbox": [
+        1299,
+        0,
+        71,
+        18
+      ],
+      "area_ratio": 0.0009861111111111112,
+      "contrast": 0.13360723853111267,
+      "hierarchy_level": 1,
+      "saliency_score": 0.30480483174324036,
+      "cta_score": 0.39005350528526767,
+      "type": "ui_element",
+      "importance_score": 0.3940287802191008
+    },
+    {
+      "id": "el_33",
+      "bbox": [
+        491,
+        0,
+        60,
+        21
+      ],
+      "area_ratio": 0.0009722222222222222,
+      "contrast": 0.11672002077102661,
+      "hierarchy_level": 1,
+      "saliency_score": 0.33100759983062744,
+      "cta_score": 0.43385445979445525,
+      "type": "ui_element",
+      "importance_score": 0.39637800426710224
+    },
+    {
+      "id": "el_34",
+      "bbox": [
+        217,
+        465,
+        57,
+        22
+      ],
+      "area_ratio": 0.0009675925925925926,
+      "contrast": 0.1340947449207306,
+      "hierarchy_level": 0,
+      "saliency_score": 0.34828880429267883,
+      "cta_score": 0.4558340313683624,
+      "type": "ui_element",
+      "importance_score": 0.4516265173043524
+    },
+    {
+      "id": "el_35",
+      "bbox": [
+        256,
+        290,
+        30,
+        39
+      ],
+      "area_ratio": 0.0009027777777777777,
+      "contrast": 0.24395416676998138,
+      "hierarchy_level": 0,
+      "saliency_score": 0.6231362819671631,
+      "cta_score": 0.5504547706220145,
+      "type": "ui_element",
+      "importance_score": 0.6812636456319265
+    },
+    {
+      "id": "el_36",
+      "bbox": [
+        920,
+        0,
+        50,
+        22
+      ],
+      "area_ratio": 0.0008487654320987654,
+      "contrast": 0.13232941925525665,
+      "hierarchy_level": 2,
+      "saliency_score": 0.3786366879940033,
+      "cta_score": 0.44147613653404805,
+      "type": "ui_element",
+      "importance_score": 0.4003902397695042
+    },
+    {
+      "id": "el_37",
+      "bbox": [
+        708,
+        790,
+        60,
+        18
+      ],
+      "area_ratio": 0.0008333333333333334,
+      "contrast": 0.17608095705509186,
+      "hierarchy_level": 1,
+      "saliency_score": 0.5377346277236938,
+      "cta_score": 0.5065133721069355,
+      "type": "ui_element",
+      "importance_score": 0.5524785383826211
+    }
+  ],
+  "behavioral_index": {
+    "version": "plura_mvp_v4",
+    "labels": [
+      "aspect_log_norm",
+      "log_area_norm",
+      "edge_density",
+      "contrast",
+      "colorfulness",
+      "saliency_entropy",
+      "saliency_focus",
+      "saliency_center_x",
+      "saliency_center_y",
+      "saliency_center_proximity",
+      "saliency_top10_mass",
+      "saliency_gini",
+      "symmetry_x",
+      "symmetry_y",
+      "dead_space_ratio",
+      "element_count_norm",
+      "element_entropy",
+      "top_element_weight",
+      "cta_count_norm",
+      "cta_area_ratio",
+      "cta_weight_share",
+      "text_area_ratio",
+      "text_weight_share",
+      "hierarchy_depth_norm",
+      "hierarchy_concentration",
+      "focus_fragmentation",
+      "focus_dominance",
+      "attention_decay"
+    ],
+    "vector": [
+      0.8357168780326684,
+      0.6450420006138298,
+      0.03747145086526871,
+      0.25152719020843506,
+      0.388111890349844,
+      0.9721818328657771,
+      0.027818167134222915,
+      0.4867601215715123,
+      0.4856978131083148,
+      0.8979829069729641,
+      0.23073406517505646,
+      0.3775956630706787,
+      0.9658711285397158,
+      0.9418117543880525,
+      0.3679753086419753,
+      0.59375,
+      0.46674999262282013,
+      0.397401194934194,
+      0.0,
+      0.0,
+      0.0,
+      0.13399131944444445,
+      0.0,
+      0.3333333333333333,
+      0.857710992037384,
+      1.0,
+      0.13607719154483883,
+      0.05913504301741614
+    ]
+  },
+  "preliminary_doc": {
+    "format": "markdown",
+    "content": "# Preliminary Screenshot Analysis\n\nImage: 1440×900\nDetected elements: 38\nDetected CTAs (cta_score ≥ 0.62): 0\n\n## Indexing Summary\n- ui_element: 36\n- container: 2\n\n## Top Indexed Elements\n- el_1 | container | weight=0.397 | bbox=[0, 0, 1440, 257]\n- el_0 | container | weight=0.377 | bbox=[0, 540, 1440, 289]\n- el_3 | ui_element | weight=0.058 | bbox=[217, 352, 1006, 36]\n- el_2 | ui_element | weight=0.050 | bbox=[174, 828, 1266, 30]\n- el_4 | ui_element | weight=0.012 | bbox=[900, 0, 281, 28]\n- el_6 | ui_element | weight=0.011 | bbox=[350, 398, 174, 21]\n\n## Quant Metrics\nBXO: 39.9\nPlura Index: 39.9\nAttention zones (ratios): ignored=0.37, clarity=0.62, over_attention=0.01\nFocus: 0.26 | Clarity: 0.52\nEvaluation: Focus is low (focus=0.26). Clarity is medium (clarity=0.52). Dominant detected region type: container.\n"
+  },
+  "final_report": {
+    "format": "markdown",
+    "content": "# Final Screenshot Report\n\n## Executive Summary\n- Behavioral clarity: Low (BXO 39.9)\n- Most compelling element: el_1 (container)\n- Attention distribution: ignored=0.37, over_attention=0.01\n\n## Observations\n- Focus is low (focus=0.26). Clarity is medium (clarity=0.52). Dominant detected region type: container.\n"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "job_id": "2fad081531d64d3c8caf738e13c8bd18",
+  "cache_key": "2a6734afabc55726f279464b6600694e",
+  "email": "aerthea.branch@gmail.com",
+  "notes": "We've developed an email app, basically an analogous of email but it has a lot of AI features like automation and things of that nature. So yeah I need you to just work with it.",
+  "status": "failed",
+  "progress": 100,
+  "created_at": 1767453251.059552,
+  "updated_at": 1767453251.150232,
+  "report_path": "/Users/mihawii/Downloads/Backend/Backend/cache/plura_report_jobs/2fad081531d64d3c8caf738e13c8bd18.report.md",
+  "error": "TAVILY_API_KEY is required for web research"
+}

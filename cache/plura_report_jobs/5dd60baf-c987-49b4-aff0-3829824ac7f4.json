@@ -1,0 +1,16 @@
+{
+  "status": "succeeded",
+  "progress": 100,
+  "created_at": 1767720866.627303,
+  "updated_at": 1767720912.110291,
+  "research_queries": [
+    "HTML email test via Django shell information hierarchy UX scanning patterns best practices",
+    "HTML email test via Django shell site:reddit.com landing page information hierarchy scanning",
+    "visual saliency heatmap limitations task relevance eye tracking"
+  ],
+  "pdf_path": "/Users/mihawii/Downloads/Backend/Backend/cache/plura_report_jobs/5dd60baf-c987-49b4-aff0-3829824ac7f4.report.pdf",
+  "report_path": "/Users/mihawii/Downloads/Backend/Backend/cache/plura_report_jobs/5dd60baf-c987-49b4-aff0-3829824ac7f4.report.md",
+  "resend": {
+    "id": "129a9f64-8b3a-4e41-a265-8dca7f667c9c"
+  }
+}

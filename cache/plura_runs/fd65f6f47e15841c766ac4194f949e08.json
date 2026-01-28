@@ -1,0 +1,622 @@
+{
+  "success": true,
+  "cached": false,
+  "cache_key": "fd65f6f47e15841c766ac4194f949e08",
+  "version": "plura_mvp_v6",
+  "intent": "buy",
+  "intent_kind": "action",
+  "image": {
+    "width": 1440,
+    "height": 900
+  },
+  "image_original": {
+    "width": 320,
+    "height": 200
+  },
+  "image_normalized": {
+    "width": 1440,
+    "height": 900
+  },
+  "normalization": {
+    "canonical_width": 1440,
+    "aspect_preserved": true,
+    "luminance_normalized": true,
+    "exif_removed": true
+  },
+  "bxo_score": 25.393877080951693,
+  "plura_index_score": 25.393877080951693,
+  "metrics": {
+    "focus": 0.016867260515508402,
+    "clarity": 0.5511893991757533,
+    "alignment": 0.0,
+    "focal_points": 6,
+    "fragmentation": 0.8333333333333334,
+    "dominance": 0.19671117321147485,
+    "decay": 0.694377064704895,
+    "intent_overlap": 0.0,
+    "overall": 25.393877080951693
+  },
+  "attention_zones": {
+    "ignored": {
+      "ratio": 0.3272770061728395,
+      "pixels": 424151
+    },
+    "clarity": {
+      "ratio": 0.6177422839506173,
+      "pixels": 800594
+    },
+    "over_attention": {
+      "ratio": 0.05498070987654321,
+      "pixels": 71255
+    }
+  },
+  "attention_frames": {
+    "immediate": {
+      "heatmap_url": "/api/plura/heatmap/fd65f6f47e15841c766ac4194f949e08/?frame=immediate",
+      "attention_zones": {
+        "ignored": {
+          "ratio": 0.34091975308641975,
+          "pixels": 441832
+        },
+        "clarity": {
+          "ratio": 0.6218395061728395,
+          "pixels": 805904
+        },
+        "over_attention": {
+          "ratio": 0.03724074074074074,
+          "pixels": 48264
+        }
+      },
+      "attention_points": [
+        {
+          "id": "p4",
+          "x_px": 717,
+          "y_px": 424,
+          "x_norm": 0.4979166666666667,
+          "y_norm": 0.4711111111111111,
+          "mass_share": 0.3307496875199778,
+          "peak_value": 1.0,
+          "bbox": [
+            401,
+            250,
+            519,
+            388
+          ]
+        },
+        {
+          "id": "p3",
+          "x_px": 719,
+          "y_px": 180,
+          "x_norm": 0.49930555555555556,
+          "y_norm": 0.2,
+          "mass_share": 0.02581467179126555,
+          "peak_value": 0.772175669670105,
+          "bbox": [
+            397,
+            169,
+            646,
+            23
+          ]
+        },
+        {
+          "id": "p2",
+          "x_px": 1263,
+          "y_px": 140,
+          "x_norm": 0.8770833333333333,
+          "y_norm": 0.15555555555555556,
+          "mass_share": 7.98532716506771e-05,
+          "peak_value": 0.5984069108963013,
+          "bbox": [
+            1260,
+            137,
+            7,
+            7
+          ]
+        },
+        {
+          "id": "p1",
+          "x_px": 1263,
+          "y_px": 93,
+          "x_norm": 0.8770833333333333,
+          "y_norm": 0.10333333333333333,
+          "mass_share": 4.050059871337591e-05,
+          "peak_value": 0.5847612023353577,
+          "bbox": [
+            1261,
+            91,
+            5,
+            5
+          ]
+        }
+      ]
+    },
+    "orienting": {
+      "heatmap_url": "/api/plura/heatmap/fd65f6f47e15841c766ac4194f949e08/",
+      "attention_zones": {
+        "ignored": {
+          "ratio": 0.3272770061728395,
+          "pixels": 424151
+        },
+        "clarity": {
+          "ratio": 0.6177422839506173,
+          "pixels": 800594
+        },
+        "over_attention": {
+          "ratio": 0.05498070987654321,
+          "pixels": 71255
+        }
+      },
+      "attention_points": [
+        {
+          "id": "p6",
+          "x_px": 717,
+          "y_px": 425,
+          "x_norm": 0.4979166666666667,
+          "y_norm": 0.4722222222222222,
+          "mass_share": 0.32585263222347705,
+          "peak_value": 1.0,
+          "bbox": [
+            425,
+            246,
+            519,
+            404
+          ]
+        },
+        {
+          "id": "p5",
+          "x_px": 719,
+          "y_px": 180,
+          "x_norm": 0.49930555555555556,
+          "y_norm": 0.2,
+          "mass_share": 0.04948679742458465,
+          "peak_value": 0.8943148255348206,
+          "bbox": [
+            244,
+            166,
+            954,
+            30
+          ]
+        },
+        {
+          "id": "p3",
+          "x_px": 1263,
+          "y_px": 140,
+          "x_norm": 0.8770833333333333,
+          "y_norm": 0.15555555555555556,
+          "mass_share": 0.0006056226313778395,
+          "peak_value": 0.736311674118042,
+          "bbox": [
+            1255,
+            129,
+            19,
+            19
+          ]
+        },
+        {
+          "id": "p1",
+          "x_px": 1263,
+          "y_px": 93,
+          "x_norm": 0.8770833333333333,
+          "y_norm": 0.10333333333333333,
+          "mass_share": 0.0005746346640661142,
+          "peak_value": 0.7346101999282837,
+          "bbox": [
+            1256,
+            86,
+            18,
+            19
+          ]
+        },
+        {
+          "id": "p2",
+          "x_px": 1328,
+          "y_px": 93,
+          "x_norm": 0.9222222222222223,
+          "y_norm": 0.10333333333333333,
+          "mass_share": 0.0004276166581128475,
+          "peak_value": 0.7033599615097046,
+          "bbox": [
+            1319,
+            87,
+            16,
+            16
+          ]
+        }
+      ]
+    },
+    "scanning": {
+      "heatmap_url": "/api/plura/heatmap/fd65f6f47e15841c766ac4194f949e08/?frame=scanning",
+      "attention_zones": {
+        "ignored": {
+          "ratio": 0.7931188271604939,
+          "pixels": 1027882
+        },
+        "clarity": {
+          "ratio": 0.13437422839506172,
+          "pixels": 174149
+        },
+        "over_attention": {
+          "ratio": 0.07250694444444444,
+          "pixels": 93969
+        }
+      },
+      "attention_points": [
+        {
+          "id": "p3",
+          "x_px": 677,
+          "y_px": 386,
+          "x_norm": 0.4701388888888889,
+          "y_norm": 0.4288888888888889,
+          "mass_share": 0.506945057270221,
+          "peak_value": 1.0,
+          "bbox": [
+            123,
+            251,
+            619,
+            199
+          ]
+        },
+        {
+          "id": "p1",
+          "x_px": 1295,
+          "y_px": 117,
+          "x_norm": 0.8993055555555556,
+          "y_norm": 0.13,
+          "mass_share": 0.02692092635888011,
+          "peak_value": 0.9804401993751526,
+          "bbox": [
+            1246,
+            76,
+            100,
+            86
+          ]
+        },
+        {
+          "id": "p2",
+          "x_px": 719,
+          "y_px": 181,
+          "x_norm": 0.49930555555555556,
+          "y_norm": 0.2011111111111111,
+          "mass_share": 0.009650975132593938,
+          "peak_value": 0.29022541642189026,
+          "bbox": [
+            516,
+            173,
+            408,
+            16
+          ]
+        }
+      ]
+    }
+  },
+  "heatmap_legend": {
+    "alpha": 0.55,
+    "ignore_threshold": 0.15,
+    "over_attention_threshold": 0.65,
+    "zones": [
+      {
+        "key": "ignored",
+        "label": "Low attention",
+        "color_hex": "#808080",
+        "color_rgb": [
+          128,
+          128,
+          128
+        ],
+        "range": {
+          "lt": 0.15
+        }
+      },
+      {
+        "key": "clarity",
+        "label": "Mid attention",
+        "color_hex": "#00FF00",
+        "color_rgb": [
+          0,
+          255,
+          0
+        ],
+        "range": {
+          "gte": 0.15,
+          "lt": 0.65
+        }
+      },
+      {
+        "key": "over_attention",
+        "label": "High attention",
+        "color_hex": "#FF0000",
+        "color_rgb": [
+          255,
+          0,
+          0
+        ],
+        "range": {
+          "gte": 0.65
+        }
+      }
+    ]
+  },
+  "attention_points": [
+    {
+      "id": "p6",
+      "x_px": 717,
+      "y_px": 425,
+      "x_norm": 0.4979166666666667,
+      "y_norm": 0.4722222222222222,
+      "mass_share": 0.32585263222347705,
+      "peak_value": 1.0,
+      "bbox": [
+        425,
+        246,
+        519,
+        404
+      ]
+    },
+    {
+      "id": "p5",
+      "x_px": 719,
+      "y_px": 180,
+      "x_norm": 0.49930555555555556,
+      "y_norm": 0.2,
+      "mass_share": 0.04948679742458465,
+      "peak_value": 0.8943148255348206,
+      "bbox": [
+        244,
+        166,
+        954,
+        30
+      ]
+    },
+    {
+      "id": "p3",
+      "x_px": 1263,
+      "y_px": 140,
+      "x_norm": 0.8770833333333333,
+      "y_norm": 0.15555555555555556,
+      "mass_share": 0.0006056226313778395,
+      "peak_value": 0.736311674118042,
+      "bbox": [
+        1255,
+        129,
+        19,
+        19
+      ]
+    },
+    {
+      "id": "p1",
+      "x_px": 1263,
+      "y_px": 93,
+      "x_norm": 0.8770833333333333,
+      "y_norm": 0.10333333333333333,
+      "mass_share": 0.0005746346640661142,
+      "peak_value": 0.7346101999282837,
+      "bbox": [
+        1256,
+        86,
+        18,
+        19
+      ]
+    },
+    {
+      "id": "p2",
+      "x_px": 1328,
+      "y_px": 93,
+      "x_norm": 0.9222222222222223,
+      "y_norm": 0.10333333333333333,
+      "mass_share": 0.0004276166581128475,
+      "peak_value": 0.7033599615097046,
+      "bbox": [
+        1319,
+        87,
+        16,
+        16
+      ]
+    }
+  ],
+  "top_elements": [
+    {
+      "id": "el_0",
+      "bbox": [
+        133,
+        268,
+        589,
+        161
+      ],
+      "type": "text_block",
+      "weight": 0.5139909538372003,
+      "cta_score": 0.2241043542288374,
+      "saliency_score": 0.3303980827331543
+    },
+    {
+      "id": "el_1",
+      "bbox": [
+        1259,
+        89,
+        74,
+        56
+      ],
+      "type": "ui_element",
+      "weight": 0.4860090461627996,
+      "cta_score": 0.4044183014868389,
+      "saliency_score": 0.36245834827423096
+    }
+  ],
+  "persona_runs": [],
+  "evaluation": "Attention is diffuse with multiple competing areas. Visual hierarchy is serviceable but may compete with secondary elements. Attention is misaligned with the stated intent.",
+  "elements": [
+    {
+      "id": "el_0",
+      "bbox": [
+        133,
+        268,
+        589,
+        161
+      ],
+      "area_ratio": 0.07317052469135803,
+      "contrast": 0.045951440930366516,
+      "hierarchy_level": 0,
+      "saliency_score": 0.3303980827331543,
+      "cta_score": 0.2241043542288374,
+      "type": "text_block",
+      "importance_score": 0.38171894550323493
+    },
+    {
+      "id": "el_1",
+      "bbox": [
+        1259,
+        89,
+        74,
+        56
+      ],
+      "area_ratio": 0.003197530864197531,
+      "contrast": 0.11354532092809677,
+      "hierarchy_level": 0,
+      "saliency_score": 0.36245834827423096,
+      "cta_score": 0.4044183014868389,
+      "type": "ui_element",
+      "importance_score": 0.4447416064994676
+    }
+  ],
+  "visual_index": {
+    "layout_regions": [],
+    "text_clusters": [
+      {
+        "id": "text_0",
+        "bbox": [
+          132,
+          267,
+          593,
+          165
+        ],
+        "mean": 0.9461643099784851,
+        "area_ratio": 0.07549768518518518
+      },
+      {
+        "id": "text_1",
+        "bbox": [
+          1255,
+          85,
+          83,
+          65
+        ],
+        "mean": 0.8126726746559143,
+        "area_ratio": 0.0041628086419753085
+      }
+    ],
+    "contrast_regions": [
+      {
+        "id": "contrast_0",
+        "bbox": [
+          0,
+          178,
+          1440,
+          4
+        ],
+        "mean": 0.9458039999008179,
+        "area_ratio": 0.0044444444444444444
+      },
+      {
+        "id": "contrast_1",
+        "bbox": [
+          1258,
+          88,
+          76,
+          58
+        ],
+        "mean": 0.2989089787006378,
+        "area_ratio": 0.0034012345679012347
+      }
+    ],
+    "minority_proxies": [
+      {
+        "id": "proxy_0",
+        "type": "low_contrast_text",
+        "element_id": "el_0",
+        "bbox": [
+          133,
+          268,
+          589,
+          161
+        ],
+        "risk_score": 0.030908233977361046,
+        "saliency_score": 0.3303980827331543,
+        "cta_score": 0.2241043542288374
+      }
+    ]
+  },
+  "behavioral_index": {
+    "version": "plura_mvp_v6",
+    "labels": [
+      "aspect_log_norm",
+      "log_area_norm",
+      "edge_density",
+      "contrast",
+      "colorfulness",
+      "saliency_entropy",
+      "saliency_focus",
+      "saliency_center_x",
+      "saliency_center_y",
+      "saliency_center_proximity",
+      "saliency_top10_mass",
+      "saliency_gini",
+      "symmetry_x",
+      "symmetry_y",
+      "dead_space_ratio",
+      "element_count_norm",
+      "element_entropy",
+      "top_element_weight",
+      "cta_count_norm",
+      "cta_area_ratio",
+      "cta_weight_share",
+      "text_area_ratio",
+      "text_weight_share",
+      "hierarchy_depth_norm",
+      "hierarchy_concentration",
+      "focus_fragmentation",
+      "focus_dominance",
+      "attention_decay"
+    ],
+    "vector": [
+      0.8357168780326684,
+      0.6450420006138298,
+      0.002445987658575177,
+      0.25025343894958496,
+      0.46091189824334683,
+      0.9697944234645586,
+      0.030205576535441425,
+      0.5041562014772628,
+      0.4885266466321086,
+      0.8957362860769276,
+      0.23416590967401932,
+      0.39782681984467216,
+      0.9730148240923882,
+      0.9494524709880352,
+      0.3272770061728395,
+      0.03125,
+      0.9994351257310764,
+      0.5139909538372003,
+      0.0,
+      0.0,
+      0.0,
+      0.07317052469135803,
+      0.5139909538372003,
+      0.0,
+      1.0,
+      0.8333333333333334,
+      0.19671117321147485,
+      0.694377064704895
+    ]
+  },
+  "preliminary_doc": {
+    "format": "markdown",
+    "content": "# Preliminary Screenshot Analysis\n\nImage: 1440×900\nDetected elements: 2\nDetected CTAs (cta_score ≥ 0.62): 0\nIntent: buy\n\n## Indexing Summary\n- text_block: 1\n- ui_element: 1\n\n## Top Indexed Elements\n- el_0 | text_block | weight=0.514 | bbox=[133, 268, 589, 161]\n- el_1 | ui_element | weight=0.486 | bbox=[1259, 89, 74, 56]\n\n## Quant Metrics\nBXO: 25.4\nPlura Index: 25.4\nAttention zones (ratios): ignored=0.33, clarity=0.62, over_attention=0.05\nFocus: 0.02 | Clarity: 0.55 | Alignment: 0.00\nFocal points: 6 | Dominance: 0.20 | Fragmentation: 0.83 | Decay: 0.69\nIntent overlap: 0.00\nHeatmap legend: gray< 0.15, green in [0.15, 0.65), red>= 0.65\nEvaluation: Attention is diffuse with multiple competing areas. Visual hierarchy is serviceable but may compete with secondary elements. Attention is misaligned with the stated intent.\n"
+  },
+  "final_report": {
+    "format": "markdown",
+    "content": "# Final Screenshot Report\n\n## Executive Summary\n- Behavioral clarity: Low (BXO 25.4)\n- Most compelling element: el_0 (text_block)\n- Attention distribution: ignored=0.33, over_attention=0.05\n- Intent: buy\n\n## Observations\n- Attention is diffuse with multiple competing areas. Visual hierarchy is serviceable but may compete with secondary elements. Attention is misaligned with the stated intent.\n"
+  },
+  "export_urls": {
+    "markdown": "/api/plura/export/fd65f6f47e15841c766ac4194f949e08/markdown/",
+    "xml": "/api/plura/export/fd65f6f47e15841c766ac4194f949e08/xml/"
+  }
+}

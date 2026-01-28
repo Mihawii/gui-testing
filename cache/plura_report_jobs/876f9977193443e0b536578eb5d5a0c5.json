@@ -1,0 +1,18 @@
+{
+  "job_id": "876f9977193443e0b536578eb5d5a0c5",
+  "cache_key": "2a6734afabc55726f279464b6600694e",
+  "email": "abduraxmonovabduraxmon794@gmail.com",
+  "notes": "We've developed an email app, basically an analogous of email but it has a lot of AI features like automation and things of that nature. So yeah I need you to just work with it.",
+  "status": "succeeded",
+  "progress": 100,
+  "created_at": 1767456506.474389,
+  "updated_at": 1767456534.522369,
+  "report_path": "/Users/mihawii/Downloads/Backend/Backend/cache/plura_report_jobs/876f9977193443e0b536578eb5d5a0c5.report.md",
+  "research_queries": [
+    "We've developed an email app, basically an analogous of email but it has a lot of AI features like automation and things of that nature. So yeah I need you to just work with it. information hierarchy UX scanning patterns",
+    "visual saliency heatmap limitations task relevance eye tracking"
+  ],
+  "resend": {
+    "id": "1d73fae5-5ad6-4484-81f1-3f273b267a9d"
+  }
+}

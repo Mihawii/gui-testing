@@ -1,0 +1,16 @@
+{
+  "proposals": {
+    "max_regions": 256,
+    "merge_iou_threshold": 0.35,
+    "min_area_ratio": 5e-05,
+    "max_area_ratio": 0.65,
+    "min_side_px": 8
+  },
+  "ocr": {
+    "enabled": true,
+    "max_dim": 1440
+  },
+  "utility": {
+    "enabled": true
+  }
+}

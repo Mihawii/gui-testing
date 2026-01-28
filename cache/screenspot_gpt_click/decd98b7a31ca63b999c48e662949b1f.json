@@ -1,0 +1,27 @@
+{
+  "pred": {
+    "x": 0.28,
+    "y": 0.55
+  },
+  "meta": {
+    "cached": false,
+    "latency_seconds": 1.5533628463745117,
+    "model": "gpt-4o",
+    "max_dim": 768,
+    "usage": {
+      "prompt_tokens": 526,
+      "completion_tokens": 13,
+      "total_tokens": 539,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  }
+}
