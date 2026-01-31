@@ -1,3 +1,16 @@
+This repository contains the experimental engine for Plura, a research-focused VLM (Visual Language Model) designed to audit and outperform GPT-5.2 in specific UI navigation tasks.
+
+## Key Modules for Reviewers
+* **Core Logic:** `plura_engine.py` - The main orchestration pipeline.
+* **Visual Physics:** `indexing/visual_physics/` - Modules for "Spectral Saliency" and click refinement (auditing perception artifacts).
+* **Architecture:** `indexing/ocumamba_lite/` - Implementation of Mamba-based vision encoders for high-efficiency inference.
+* **Benchmarking:** `scripts/gpt52_benchmark_fixed.py` - The evaluation harness used to compare speed/cost against SOTA.
+
+## Infrastructure
+* See `scripts/VASTAI_DEPLOY.md` for GPU cluster deployment notes.
+
+*Note: This is an active research repo. You will see failed experiment scripts (e.g., `_v1`, `_debug`) which are preserved for audit trails.*
+
 # GUI Testing Project
 
 Research and benchmarking for GUI visual grounding models.
